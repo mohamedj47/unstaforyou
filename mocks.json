@@ -1,0 +1,72 @@
+[
+  {
+    "id": "mock-1794688970990-dmx90",
+    "url": "/api/v1/items",
+    "method": "GET",
+    "description": "Simulated JSON response",
+    "responseBody": "{\n  \"simulated\": true,\n  \"items\": [\n    {\n      \"id\": 1,\n      \"name\": \"Sample Item\"\n    }\n  ]\n}",
+    "statusCode": 200,
+    "headers": {
+      "Content-Type": "application/json"
+    },
+    "delayMs": 80,
+    "enabled": true,
+    "sourceType": "SIMULATED_MOCK"
+  },
+  {
+    "id": "mock-1",
+    "url": "/api/v1/user/profile",
+    "method": "GET",
+    "description": "User profile and authentication session payload",
+    "statusCode": 200,
+    "headers": {
+      "Content-Type": "application/json"
+    },
+    "delayMs": 120,
+    "enabled": true,
+    "responseBody": "{\n  \"status\": \"success\",\n  \"user\": {\n    \"id\": \"usr_98241\",\n    \"name\": \"Cloner Admin\",\n    \"email\": \"admin@intercept.local\",\n    \"role\": \"engineer\",\n    \"permissions\": [\n      \"read\",\n      \"write\",\n      \"clone\",\n      \"intercept\"\n    ],\n    \"avatar\": \"/assets/avatar-default.png\"\n  },\n  \"sessionExpiresAt\": \"2026-12-31T23:59:59Z\"\n}",
+    "sourceType": "SIMULATED_MOCK"
+  },
+  {
+    "id": "mock-2",
+    "url": "/api/v1/analytics/metrics",
+    "method": "GET",
+    "description": "System traffic telemetry and crawl stats",
+    "statusCode": 200,
+    "headers": {
+      "Content-Type": "application/json"
+    },
+    "delayMs": 80,
+    "enabled": true,
+    "responseBody": "{\n  \"totalRequests\": 14290,\n  \"interceptedCount\": 842,\n  \"cacheHitRate\": \"94.2%\",\n  \"activeSessions\": 38,\n  \"bandwidthSavedKb\": 45290\n}",
+    "sourceType": "SIMULATED_MOCK"
+  },
+  {
+    "id": "mock-3",
+    "url": "/api/v1/checkout/session",
+    "method": "POST",
+    "description": "Simulated e-commerce checkout response",
+    "statusCode": 201,
+    "headers": {
+      "Content-Type": "application/json"
+    },
+    "delayMs": 250,
+    "enabled": true,
+    "responseBody": "{\n  \"status\": \"completed\",\n  \"transactionId\": \"tx_77391942\",\n  \"currency\": \"USD\",\n  \"amount\": 89.99,\n  \"items\": [\n    {\n      \"id\": \"item_1\",\n      \"name\": \"Standard Subscription\",\n      \"quantity\": 1\n    }\n  ]\n}",
+    "sourceType": "SIMULATED_MOCK"
+  },
+  {
+    "id": "mock-4",
+    "url": "/api/v1/notifications",
+    "method": "GET",
+    "description": "Real-time alert notifications payload",
+    "statusCode": 200,
+    "headers": {
+      "Content-Type": "application/json"
+    },
+    "delayMs": 50,
+    "enabled": true,
+    "responseBody": "{\n  \"notifications\": [\n    {\n      \"id\": \"nt_1\",\n      \"title\": \"DOM Snapshot Completed\",\n      \"time\": \"2 mins ago\",\n      \"unread\": true\n    },\n    {\n      \"id\": \"nt_2\",\n      \"title\": \"14 Network Assets Captured\",\n      \"time\": \"12 mins ago\",\n      \"unread\": false\n    }\n  ]\n}",
+    "sourceType": "SIMULATED_MOCK"
+  }
+]

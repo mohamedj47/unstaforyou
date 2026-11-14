@@ -1,0 +1,5 @@
+{
+  "name": "Instagram (Reconstructed)",
+  "description": "Reconstructed multi-page web application cloned from https://www.instagram.com/ with local assets and configurable mock API server.",
+  "requestFramePermissions": []
+}

@@ -1,0 +1,92 @@
+{
+  "designSystem": {
+    "brandName": "Instagram",
+    "primaryFont": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif",
+    "bodyFont": "system-ui, sans-serif",
+    "monoFont": "monospace",
+    "palette": {
+      "background": "#FFFFFF",
+      "surface": "#F8FAFC",
+      "textPrimary": "#0F172A",
+      "textMuted": "#64748B",
+      "accent": "#2563EB",
+      "accentContrast": "#FFFFFF",
+      "border": "#E2E8F0"
+    },
+    "typographyScale": [
+      {
+        "name": "Heading 2 (Modal / Cookie Consent):",
+        "size": "24px",
+        "weight": "700"
+      }
+    ],
+    "spacingScale": [
+      "2px",
+      "12px",
+      "546px",
+      "650px",
+      "800px",
+      "1500px"
+    ],
+    "radii": [],
+    "breakpoints": [],
+    "cssVariables": ":root {\n  --clone-bg: #FFFFFF;\n  --clone-surface: #F8FAFC;\n  --clone-text: #0F172A;\n  --clone-text-muted: #64748B;\n  --clone-accent: #2563EB;\n  --clone-accent-contrast: #FFFFFF;\n  --clone-border: #E2E8F0;\n  --clone-font-display: -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif;\n  --clone-font-body: system-ui, sans-serif;\n  --clone-font-mono: monospace;\n}"
+  },
+  "pageSpecs": [
+    {
+      "pageId": "page_0",
+      "path": "/",
+      "title": "Instagram",
+      "templateGroup": "script>script>link>script>script>script>script>script>script>script",
+      "purpose": "Reconstruct / preserving layout and content.",
+      "sections": [],
+      "navigationBehavior": "Standard internal link routing across cloned pages.",
+      "responsiveNotes": [],
+      "interactiveBehaviors": []
+    },
+    {
+      "pageId": "page_1",
+      "path": "/accounts/password/reset",
+      "title": "Instagram",
+      "templateGroup": "restricted",
+      "purpose": "Reconstruct /accounts/password/reset preserving layout and content.",
+      "sections": [],
+      "navigationBehavior": "Standard internal link routing across cloned pages.",
+      "responsiveNotes": [],
+      "interactiveBehaviors": []
+    },
+    {
+      "pageId": "page_2",
+      "path": "/accounts/emailsignup",
+      "title": "Instagram",
+      "templateGroup": "script>script>link>script>script>script>script>script>script>script",
+      "purpose": "Reconstruct /accounts/emailsignup preserving layout and content.",
+      "sections": [],
+      "navigationBehavior": "Standard internal link routing across cloned pages.",
+      "responsiveNotes": [],
+      "interactiveBehaviors": []
+    },
+    {
+      "pageId": "page_3",
+      "path": "/legal/privacy",
+      "title": "Meta Privacy Policy - How Meta collects and uses user data | Privacy Center | Manage your privacy on Facebook, Instagram and Messenger | Facebook Privacy",
+      "templateGroup": "link>script>script>script>script>script>script>script>script>script",
+      "purpose": "Reconstruct /legal/privacy preserving layout and content.",
+      "sections": [],
+      "navigationBehavior": "Standard internal link routing across cloned pages.",
+      "responsiveNotes": [],
+      "interactiveBehaviors": []
+    },
+    {
+      "pageId": "page_4",
+      "path": "/legal/terms",
+      "title": "Terms of Use | Instagram Help Center",
+      "templateGroup": "link>script>script>script>script>script>script>script>script>script",
+      "purpose": "Reconstruct /legal/terms preserving layout and content.",
+      "sections": [],
+      "navigationBehavior": "Standard internal link routing across cloned pages.",
+      "responsiveNotes": [],
+      "interactiveBehaviors": []
+    }
+  ]
+}

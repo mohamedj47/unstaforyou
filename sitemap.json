@@ -1,0 +1,81 @@
+{
+  "pages": [
+    "/",
+    "/accounts/password/reset",
+    "/accounts/emailsignup",
+    "/legal/privacy",
+    "/legal/terms"
+  ],
+  "edges": [
+    {
+      "from": "/",
+      "to": "/accounts/password/reset",
+      "label": "/accounts/password/reset"
+    },
+    {
+      "from": "/",
+      "to": "/accounts/emailsignup",
+      "label": "/accounts/emailsignup"
+    },
+    {
+      "from": "/",
+      "to": "/legal/privacy",
+      "label": "/legal/privacy"
+    },
+    {
+      "from": "/",
+      "to": "/legal/terms",
+      "label": "/legal/terms"
+    },
+    {
+      "from": "/",
+      "to": "/explore/locations",
+      "label": "/explore/locations"
+    },
+    {
+      "from": "/",
+      "to": "/popular",
+      "label": "/popular"
+    },
+    {
+      "from": "/",
+      "to": "/web/lite",
+      "label": "/web/lite"
+    },
+    {
+      "from": "/",
+      "to": "/accounts/meta_verified?entrypoint=web_footer",
+      "label": "/accounts/meta_verified?entrypoint=web_footer"
+    },
+    {
+      "from": "/",
+      "to": "/legal/cookies",
+      "label": "/legal/cookies"
+    }
+  ],
+  "templates": [
+    {
+      "signature": "script>script>link>script>script>script>script>script>script>script",
+      "pattern": "Shared Template #1 (2 pages)",
+      "paths": [
+        "/",
+        "/accounts/emailsignup"
+      ]
+    },
+    {
+      "signature": "restricted",
+      "pattern": "Unique Layout (/accounts/password/reset)",
+      "paths": [
+        "/accounts/password/reset"
+      ]
+    },
+    {
+      "signature": "link>script>script>script>script>script>script>script>script>script",
+      "pattern": "Shared Template #3 (2 pages)",
+      "paths": [
+        "/legal/privacy",
+        "/legal/terms"
+      ]
+    }
+  ]
+}

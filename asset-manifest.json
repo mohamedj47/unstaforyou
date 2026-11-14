@@ -1,0 +1,2397 @@
+{
+  "projectId": "proj_1794686315776_8b8198",
+  "generatedAt": "2026-11-14T19:59:19.098Z",
+  "totalDiscovered": 160,
+  "downloadedCount": 159,
+  "failedCount": 0,
+  "skippedCount": 1,
+  "totalBytes": 22062112,
+  "byCategory": {
+    "images": 11,
+    "logos": 2,
+    "icons": 30,
+    "fonts": 109,
+    "backgrounds": 0,
+    "videos": 2,
+    "css": 6,
+    "other": 0
+  },
+  "items": [
+    {
+      "id": "asset_86d2a98f",
+      "category": "fonts",
+      "originalUrl": "https://static.cdninstagram.com/rsrc.php/yw/r/7MhX-urVb2p.ttf",
+      "filename": "7MhX-urVb2p.ttf",
+      "localRelativePath": "assets/fonts/7MhX-urVb2p.ttf",
+      "publicServeUrl": "/project-files/proj_1794686315776_8b8198/assets/fonts/7MhX-urVb2p.ttf",
+      "mimeType": "font/truetype",
+      "sizeBytes": 102256,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/",
+        "/accounts/emailsignup"
+      ]
+    },
+    {
+      "id": "asset_728e7ffd",
+      "category": "fonts",
+      "originalUrl": "https://static.cdninstagram.com/rsrc.php/ym/r/34UpThUyaqR.woff",
+      "filename": "34UpThUyaqR.woff",
+      "localRelativePath": "assets/fonts/34UpThUyaqR.woff",
+      "publicServeUrl": "/project-files/proj_1794686315776_8b8198/assets/fonts/34UpThUyaqR.woff",
+      "mimeType": "application/x-font-woff",
+      "sizeBytes": 47196,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/",
+        "/accounts/emailsignup"
+      ]
+    },
+    {
+      "id": "asset_b3474563",
+      "category": "fonts",
+      "originalUrl": "https://static.cdninstagram.com/rsrc.php/yP/r/ei8K5QReonM.woff2",
+      "filename": "ei8K5QReonM.woff2",
+      "localRelativePath": "assets/fonts/ei8K5QReonM.woff2",
+      "publicServeUrl": "/project-files/proj_1794686315776_8b8198/assets/fonts/ei8K5QReonM.woff2",
+      "mimeType": "font/woff2",
+      "sizeBytes": 36276,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/",
+        "/accounts/emailsignup"
+      ]
+    },
+    {
+      "id": "asset_24e3137d",
+      "category": "fonts",
+      "originalUrl": "https://static.cdninstagram.com/rsrc.php/yR/r/Avj_C9HL6ow.ttf",
+      "filename": "Avj_C9HL6ow.ttf",
+      "localRelativePath": "assets/fonts/Avj_C9HL6ow.ttf",
+      "publicServeUrl": "/project-files/proj_1794686315776_8b8198/assets/fonts/Avj_C9HL6ow.ttf",
+      "mimeType": "font/truetype",
+      "sizeBytes": 96272,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/",
+        "/accounts/emailsignup"
+      ]
+    },
+    {
+      "id": "asset_f1469070",
+      "category": "fonts",
+      "originalUrl": "https://static.cdninstagram.com/rsrc.php/yS/r/8Z8uv9m22x_.woff",
+      "filename": "8Z8uv9m22x_.woff",
+      "localRelativePath": "assets/fonts/8Z8uv9m22x_.woff",
+      "publicServeUrl": "/project-files/proj_1794686315776_8b8198/assets/fonts/8Z8uv9m22x_.woff",
+      "mimeType": "application/x-font-woff",
+      "sizeBytes": 44904,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/",
+        "/accounts/emailsignup"
+      ]
+    },
+    {
+      "id": "asset_9d0ecc42",
+      "category": "fonts",
+      "originalUrl": "https://static.cdninstagram.com/rsrc.php/yF/r/OIHqJOkcQqn.woff2",
+      "filename": "OIHqJOkcQqn.woff2",
+      "localRelativePath": "assets/fonts/OIHqJOkcQqn.woff2",
+      "publicServeUrl": "/project-files/proj_1794686315776_8b8198/assets/fonts/OIHqJOkcQqn.woff2",
+      "mimeType": "font/woff2",
+      "sizeBytes": 34260,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/",
+        "/accounts/emailsignup"
+      ]
+    },
+    {
+      "id": "asset_eb6f5442",
+      "category": "fonts",
+      "originalUrl": "https://static.cdninstagram.com/rsrc.php/yH/r/LwNYcxufeAO.ttf",
+      "filename": "LwNYcxufeAO.ttf",
+      "localRelativePath": "assets/fonts/LwNYcxufeAO.ttf",
+      "publicServeUrl": "/project-files/proj_1794686315776_8b8198/assets/fonts/LwNYcxufeAO.ttf",
+      "mimeType": "font/truetype",
+      "sizeBytes": 63344,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/",
+        "/accounts/emailsignup"
+      ]
+    },
+    {
+      "id": "asset_82c1cc53",
+      "category": "fonts",
+      "originalUrl": "https://static.cdninstagram.com/rsrc.php/yx/r/4QCyqhX8hVM.woff",
+      "filename": "4QCyqhX8hVM.woff",
+      "localRelativePath": "assets/fonts/4QCyqhX8hVM.woff",
+      "publicServeUrl": "/project-files/proj_1794686315776_8b8198/assets/fonts/4QCyqhX8hVM.woff",
+      "mimeType": "application/x-font-woff",
+      "sizeBytes": 31144,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/",
+        "/accounts/emailsignup"
+      ]
+    },
+    {
+      "id": "asset_0ffc1e64",
+      "category": "fonts",
+      "originalUrl": "https://static.cdninstagram.com/rsrc.php/y5/r/_a_FWcDLOaW.woff2",
+      "filename": "_a_FWcDLOaW.woff2",
+      "localRelativePath": "assets/fonts/_a_FWcDLOaW.woff2",
+      "publicServeUrl": "/project-files/proj_1794686315776_8b8198/assets/fonts/_a_FWcDLOaW.woff2",
+      "mimeType": "font/woff2",
+      "sizeBytes": 23684,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/",
+        "/accounts/emailsignup"
+      ]
+    },
+    {
+      "id": "asset_2d7d1d30",
+      "category": "fonts",
+      "originalUrl": "https://static.cdninstagram.com/rsrc.php/yW/r/iMFbRFNa3Jt.woff2",
+      "filename": "iMFbRFNa3Jt.woff2",
+      "localRelativePath": "assets/fonts/iMFbRFNa3Jt.woff2",
+      "publicServeUrl": "/project-files/proj_1794686315776_8b8198/assets/fonts/iMFbRFNa3Jt.woff2",
+      "mimeType": "font/woff2",
+      "sizeBytes": 65148,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/",
+        "/accounts/emailsignup"
+      ]
+    },
+    {
+      "id": "asset_449a7a72",
+      "category": "fonts",
+      "originalUrl": "https://static.cdninstagram.com/rsrc.php/yq/r/O9ru8M5Sarh.woff2",
+      "filename": "O9ru8M5Sarh.woff2",
+      "localRelativePath": "assets/fonts/O9ru8M5Sarh.woff2",
+      "publicServeUrl": "/project-files/proj_1794686315776_8b8198/assets/fonts/O9ru8M5Sarh.woff2",
+      "mimeType": "font/woff2",
+      "sizeBytes": 72716,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/",
+        "/accounts/emailsignup"
+      ]
+    },
+    {
+      "id": "asset_0b36b4c2",
+      "category": "fonts",
+      "originalUrl": "https://static.cdninstagram.com/rsrc.php/yJ/r/G4CvqQXT71s.woff2",
+      "filename": "G4CvqQXT71s.woff2",
+      "localRelativePath": "assets/fonts/G4CvqQXT71s.woff2",
+      "publicServeUrl": "/project-files/proj_1794686315776_8b8198/assets/fonts/G4CvqQXT71s.woff2",
+      "mimeType": "font/woff2",
+      "sizeBytes": 22328,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/",
+        "/accounts/emailsignup"
+      ]
+    },
+    {
+      "id": "asset_25fe6ad5",
+      "category": "fonts",
+      "originalUrl": "https://static.cdninstagram.com/rsrc.php/yu/r/3nJF2AW_2KI.woff",
+      "filename": "3nJF2AW_2KI.woff",
+      "localRelativePath": "assets/fonts/3nJF2AW_2KI.woff",
+      "publicServeUrl": "/project-files/proj_1794686315776_8b8198/assets/fonts/3nJF2AW_2KI.woff",
+      "mimeType": "application/x-font-woff",
+      "sizeBytes": 27348,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/",
+        "/accounts/emailsignup"
+      ]
+    },
+    {
+      "id": "asset_33f094b3",
+      "category": "fonts",
+      "originalUrl": "https://static.cdninstagram.com/rsrc.php/y2/r/6YirsaXqsap.woff2",
+      "filename": "6YirsaXqsap.woff2",
+      "localRelativePath": "assets/fonts/6YirsaXqsap.woff2",
+      "publicServeUrl": "/project-files/proj_1794686315776_8b8198/assets/fonts/6YirsaXqsap.woff2",
+      "mimeType": "font/woff2",
+      "sizeBytes": 22576,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/",
+        "/accounts/emailsignup"
+      ]
+    },
+    {
+      "id": "asset_1e3ea182",
+      "category": "fonts",
+      "originalUrl": "https://static.cdninstagram.com/rsrc.php/yN/r/A8MP726Y7RW.woff",
+      "filename": "A8MP726Y7RW.woff",
+      "localRelativePath": "assets/fonts/A8MP726Y7RW.woff",
+      "publicServeUrl": "/project-files/proj_1794686315776_8b8198/assets/fonts/A8MP726Y7RW.woff",
+      "mimeType": "application/x-font-woff",
+      "sizeBytes": 27716,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/",
+        "/accounts/emailsignup"
+      ]
+    },
+    {
+      "id": "asset_7911dc64",
+      "category": "fonts",
+      "originalUrl": "https://static.cdninstagram.com/rsrc.php/ye/r/ndhgOwkNmDs.woff2",
+      "filename": "ndhgOwkNmDs.woff2",
+      "localRelativePath": "assets/fonts/ndhgOwkNmDs.woff2",
+      "publicServeUrl": "/project-files/proj_1794686315776_8b8198/assets/fonts/ndhgOwkNmDs.woff2",
+      "mimeType": "font/woff2",
+      "sizeBytes": 23448,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/",
+        "/accounts/emailsignup"
+      ]
+    },
+    {
+      "id": "asset_52b2c1f5",
+      "category": "fonts",
+      "originalUrl": "https://static.cdninstagram.com/rsrc.php/y3/r/g6ncoEztC_N.woff",
+      "filename": "g6ncoEztC_N.woff",
+      "localRelativePath": "assets/fonts/g6ncoEztC_N.woff",
+      "publicServeUrl": "/project-files/proj_1794686315776_8b8198/assets/fonts/g6ncoEztC_N.woff",
+      "mimeType": "application/x-font-woff",
+      "sizeBytes": 28644,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/",
+        "/accounts/emailsignup"
+      ]
+    },
+    {
+      "id": "asset_841dc1b2",
+      "category": "fonts",
+      "originalUrl": "https://static.cdninstagram.com/rsrc.php/y8/r/WF8VhTuShVE.woff2",
+      "filename": "WF8VhTuShVE.woff2",
+      "localRelativePath": "assets/fonts/WF8VhTuShVE.woff2",
+      "publicServeUrl": "/project-files/proj_1794686315776_8b8198/assets/fonts/WF8VhTuShVE.woff2",
+      "mimeType": "font/woff2",
+      "sizeBytes": 23488,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/",
+        "/accounts/emailsignup"
+      ]
+    },
+    {
+      "id": "asset_e55e8e51",
+      "category": "fonts",
+      "originalUrl": "https://static.cdninstagram.com/rsrc.php/yC/r/Oe0HWHR8zW7.woff",
+      "filename": "Oe0HWHR8zW7.woff",
+      "localRelativePath": "assets/fonts/Oe0HWHR8zW7.woff",
+      "publicServeUrl": "/project-files/proj_1794686315776_8b8198/assets/fonts/Oe0HWHR8zW7.woff",
+      "mimeType": "application/x-font-woff",
+      "sizeBytes": 28668,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/",
+        "/accounts/emailsignup"
+      ]
+    },
+    {
+      "id": "asset_451146aa",
+      "category": "fonts",
+      "originalUrl": "https://static.cdninstagram.com/rsrc.php/yO/r/_IxD8PqgShI.woff2",
+      "filename": "_IxD8PqgShI.woff2",
+      "localRelativePath": "assets/fonts/_IxD8PqgShI.woff2",
+      "publicServeUrl": "/project-files/proj_1794686315776_8b8198/assets/fonts/_IxD8PqgShI.woff2",
+      "mimeType": "font/woff2",
+      "sizeBytes": 23140,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/",
+        "/accounts/emailsignup"
+      ]
+    },
+    {
+      "id": "asset_b2496b6f",
+      "category": "fonts",
+      "originalUrl": "https://static.cdninstagram.com/rsrc.php/yI/r/XSfIGfuYAms.woff",
+      "filename": "XSfIGfuYAms.woff",
+      "localRelativePath": "assets/fonts/XSfIGfuYAms.woff",
+      "publicServeUrl": "/project-files/proj_1794686315776_8b8198/assets/fonts/XSfIGfuYAms.woff",
+      "mimeType": "application/x-font-woff",
+      "sizeBytes": 28416,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/",
+        "/accounts/emailsignup"
+      ]
+    },
+    {
+      "id": "asset_edc393ff",
+      "category": "fonts",
+      "originalUrl": "https://static.cdninstagram.com/rsrc.php/ye/r/KjRMIwI5MLI.woff2",
+      "filename": "KjRMIwI5MLI.woff2",
+      "localRelativePath": "assets/fonts/KjRMIwI5MLI.woff2",
+      "publicServeUrl": "/project-files/proj_1794686315776_8b8198/assets/fonts/KjRMIwI5MLI.woff2",
+      "mimeType": "font/woff2",
+      "sizeBytes": 19816,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/",
+        "/accounts/emailsignup"
+      ]
+    },
+    {
+      "id": "asset_a67eb29f",
+      "category": "fonts",
+      "originalUrl": "https://static.cdninstagram.com/rsrc.php/y5/r/2kK0RUn3aHt.woff",
+      "filename": "2kK0RUn3aHt.woff",
+      "localRelativePath": "assets/fonts/2kK0RUn3aHt.woff",
+      "publicServeUrl": "/project-files/proj_1794686315776_8b8198/assets/fonts/2kK0RUn3aHt.woff",
+      "mimeType": "application/x-font-woff",
+      "sizeBytes": 24484,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/",
+        "/accounts/emailsignup"
+      ]
+    },
+    {
+      "id": "asset_37979547",
+      "category": "fonts",
+      "originalUrl": "https://static.cdninstagram.com/rsrc.php/yT/r/577bYCjitsm.woff2",
+      "filename": "577bYCjitsm.woff2",
+      "localRelativePath": "assets/fonts/577bYCjitsm.woff2",
+      "publicServeUrl": "/project-files/proj_1794686315776_8b8198/assets/fonts/577bYCjitsm.woff2",
+      "mimeType": "font/woff2",
+      "sizeBytes": 19972,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/",
+        "/accounts/emailsignup"
+      ]
+    },
+    {
+      "id": "asset_742d6250",
+      "category": "fonts",
+      "originalUrl": "https://static.cdninstagram.com/rsrc.php/y-/r/IOMVSiO_79n.woff",
+      "filename": "IOMVSiO_79n.woff",
+      "localRelativePath": "assets/fonts/IOMVSiO_79n.woff",
+      "publicServeUrl": "/project-files/proj_1794686315776_8b8198/assets/fonts/IOMVSiO_79n.woff",
+      "mimeType": "application/x-font-woff",
+      "sizeBytes": 24660,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/",
+        "/accounts/emailsignup"
+      ]
+    },
+    {
+      "id": "asset_e21363ef",
+      "category": "fonts",
+      "originalUrl": "https://static.cdninstagram.com/rsrc.php/yQ/r/6sGd9jAF7-G.woff2",
+      "filename": "6sGd9jAF7-G.woff2",
+      "localRelativePath": "assets/fonts/6sGd9jAF7-G.woff2",
+      "publicServeUrl": "/project-files/proj_1794686315776_8b8198/assets/fonts/6sGd9jAF7-G.woff2",
+      "mimeType": "font/woff2",
+      "sizeBytes": 20924,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/",
+        "/accounts/emailsignup"
+      ]
+    },
+    {
+      "id": "asset_87a81487",
+      "category": "fonts",
+      "originalUrl": "https://static.cdninstagram.com/rsrc.php/yj/r/tfxfr82lQhK.woff",
+      "filename": "tfxfr82lQhK.woff",
+      "localRelativePath": "assets/fonts/tfxfr82lQhK.woff",
+      "publicServeUrl": "/project-files/proj_1794686315776_8b8198/assets/fonts/tfxfr82lQhK.woff",
+      "mimeType": "application/x-font-woff",
+      "sizeBytes": 25672,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/",
+        "/accounts/emailsignup"
+      ]
+    },
+    {
+      "id": "asset_bdf01124",
+      "category": "fonts",
+      "originalUrl": "https://static.cdninstagram.com/rsrc.php/yv/r/1lvRwR8FCtJ.woff2",
+      "filename": "1lvRwR8FCtJ.woff2",
+      "localRelativePath": "assets/fonts/1lvRwR8FCtJ.woff2",
+      "publicServeUrl": "/project-files/proj_1794686315776_8b8198/assets/fonts/1lvRwR8FCtJ.woff2",
+      "mimeType": "font/woff2",
+      "sizeBytes": 29304,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/",
+        "/accounts/emailsignup"
+      ]
+    },
+    {
+      "id": "asset_2508f3f8",
+      "category": "fonts",
+      "originalUrl": "https://static.cdninstagram.com/rsrc.php/yG/r/ffP85_okaMb.woff",
+      "filename": "ffP85_okaMb.woff",
+      "localRelativePath": "assets/fonts/ffP85_okaMb.woff",
+      "publicServeUrl": "/project-files/proj_1794686315776_8b8198/assets/fonts/ffP85_okaMb.woff",
+      "mimeType": "application/x-font-woff",
+      "sizeBytes": 36232,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/",
+        "/accounts/emailsignup"
+      ]
+    },
+    {
+      "id": "asset_bb475886",
+      "category": "fonts",
+      "originalUrl": "https://static.cdninstagram.com/rsrc.php/yV/r/KandUw__L2Y.woff2",
+      "filename": "KandUw__L2Y.woff2",
+      "localRelativePath": "assets/fonts/KandUw__L2Y.woff2",
+      "publicServeUrl": "/project-files/proj_1794686315776_8b8198/assets/fonts/KandUw__L2Y.woff2",
+      "mimeType": "font/woff2",
+      "sizeBytes": 29112,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/",
+        "/accounts/emailsignup"
+      ]
+    },
+    {
+      "id": "asset_687296b8",
+      "category": "fonts",
+      "originalUrl": "https://static.cdninstagram.com/rsrc.php/yE/r/eMwOw8vF5hG.woff",
+      "filename": "eMwOw8vF5hG.woff",
+      "localRelativePath": "assets/fonts/eMwOw8vF5hG.woff",
+      "publicServeUrl": "/project-files/proj_1794686315776_8b8198/assets/fonts/eMwOw8vF5hG.woff",
+      "mimeType": "application/x-font-woff",
+      "sizeBytes": 35908,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/",
+        "/accounts/emailsignup"
+      ]
+    },
+    {
+      "id": "asset_f39fad92",
+      "category": "fonts",
+      "originalUrl": "https://static.cdninstagram.com/rsrc.php/y2/r/Y5UW-giPmlu.woff2",
+      "filename": "Y5UW-giPmlu.woff2",
+      "localRelativePath": "assets/fonts/Y5UW-giPmlu.woff2",
+      "publicServeUrl": "/project-files/proj_1794686315776_8b8198/assets/fonts/Y5UW-giPmlu.woff2",
+      "mimeType": "font/woff2",
+      "sizeBytes": 29780,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/",
+        "/accounts/emailsignup"
+      ]
+    },
+    {
+      "id": "asset_bbcd0f61",
+      "category": "fonts",
+      "originalUrl": "https://static.cdninstagram.com/rsrc.php/yI/r/t1juam039_W.woff",
+      "filename": "t1juam039_W.woff",
+      "localRelativePath": "assets/fonts/t1juam039_W.woff",
+      "publicServeUrl": "/project-files/proj_1794686315776_8b8198/assets/fonts/t1juam039_W.woff",
+      "mimeType": "application/x-font-woff",
+      "sizeBytes": 36484,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/",
+        "/accounts/emailsignup"
+      ]
+    },
+    {
+      "id": "asset_944fa46f",
+      "category": "fonts",
+      "originalUrl": "https://static.cdninstagram.com/rsrc.php/y7/r/7IYPg3-s_Dn.woff2",
+      "filename": "7IYPg3-s_Dn.woff2",
+      "localRelativePath": "assets/fonts/7IYPg3-s_Dn.woff2",
+      "publicServeUrl": "/project-files/proj_1794686315776_8b8198/assets/fonts/7IYPg3-s_Dn.woff2",
+      "mimeType": "font/woff2",
+      "sizeBytes": 22156,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/",
+        "/accounts/emailsignup"
+      ]
+    },
+    {
+      "id": "asset_5e72803d",
+      "category": "fonts",
+      "originalUrl": "https://static.cdninstagram.com/rsrc.php/yY/r/ynHedIfBxVA.woff",
+      "filename": "ynHedIfBxVA.woff",
+      "localRelativePath": "assets/fonts/ynHedIfBxVA.woff",
+      "publicServeUrl": "/project-files/proj_1794686315776_8b8198/assets/fonts/ynHedIfBxVA.woff",
+      "mimeType": "application/x-font-woff",
+      "sizeBytes": 27192,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/",
+        "/accounts/emailsignup"
+      ]
+    },
+    {
+      "id": "asset_1e3c49f8",
+      "category": "fonts",
+      "originalUrl": "https://static.cdninstagram.com/rsrc.php/yL/r/jfwoHaS3i0K.woff2",
+      "filename": "jfwoHaS3i0K.woff2",
+      "localRelativePath": "assets/fonts/jfwoHaS3i0K.woff2",
+      "publicServeUrl": "/project-files/proj_1794686315776_8b8198/assets/fonts/jfwoHaS3i0K.woff2",
+      "mimeType": "font/woff2",
+      "sizeBytes": 22860,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/",
+        "/accounts/emailsignup"
+      ]
+    },
+    {
+      "id": "asset_44249e42",
+      "category": "fonts",
+      "originalUrl": "https://static.cdninstagram.com/rsrc.php/yx/r/fTvKFwGz9bf.woff",
+      "filename": "fTvKFwGz9bf.woff",
+      "localRelativePath": "assets/fonts/fTvKFwGz9bf.woff",
+      "publicServeUrl": "/project-files/proj_1794686315776_8b8198/assets/fonts/fTvKFwGz9bf.woff",
+      "mimeType": "application/x-font-woff",
+      "sizeBytes": 28008,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/",
+        "/accounts/emailsignup"
+      ]
+    },
+    {
+      "id": "asset_53a7af9f",
+      "category": "fonts",
+      "originalUrl": "https://static.cdninstagram.com/rsrc.php/yo/r/n0aIRIy9q6Y.woff2",
+      "filename": "n0aIRIy9q6Y.woff2",
+      "localRelativePath": "assets/fonts/n0aIRIy9q6Y.woff2",
+      "publicServeUrl": "/project-files/proj_1794686315776_8b8198/assets/fonts/n0aIRIy9q6Y.woff2",
+      "mimeType": "font/woff2",
+      "sizeBytes": 23596,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/",
+        "/accounts/emailsignup"
+      ]
+    },
+    {
+      "id": "asset_11567153",
+      "category": "fonts",
+      "originalUrl": "https://static.cdninstagram.com/rsrc.php/yJ/r/ZdS7UjU8lD8.woff",
+      "filename": "ZdS7UjU8lD8.woff",
+      "localRelativePath": "assets/fonts/ZdS7UjU8lD8.woff",
+      "publicServeUrl": "/project-files/proj_1794686315776_8b8198/assets/fonts/ZdS7UjU8lD8.woff",
+      "mimeType": "application/x-font-woff",
+      "sizeBytes": 28720,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/",
+        "/accounts/emailsignup"
+      ]
+    },
+    {
+      "id": "asset_13d603f1",
+      "category": "fonts",
+      "originalUrl": "https://static.cdninstagram.com/rsrc.php/yU/r/WXBYOaYZuYu.woff2",
+      "filename": "WXBYOaYZuYu.woff2",
+      "localRelativePath": "assets/fonts/WXBYOaYZuYu.woff2",
+      "publicServeUrl": "/project-files/proj_1794686315776_8b8198/assets/fonts/WXBYOaYZuYu.woff2",
+      "mimeType": "font/woff2",
+      "sizeBytes": 23676,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/",
+        "/accounts/emailsignup"
+      ]
+    },
+    {
+      "id": "asset_9734a4fd",
+      "category": "fonts",
+      "originalUrl": "https://static.cdninstagram.com/rsrc.php/yY/r/uFQSckMfvjy.woff",
+      "filename": "uFQSckMfvjy.woff",
+      "localRelativePath": "assets/fonts/uFQSckMfvjy.woff",
+      "publicServeUrl": "/project-files/proj_1794686315776_8b8198/assets/fonts/uFQSckMfvjy.woff",
+      "mimeType": "application/x-font-woff",
+      "sizeBytes": 28996,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/",
+        "/accounts/emailsignup"
+      ]
+    },
+    {
+      "id": "asset_43c792af",
+      "category": "fonts",
+      "originalUrl": "https://static.cdninstagram.com/rsrc.php/ye/r/NgfGZAAbez9.woff2",
+      "filename": "NgfGZAAbez9.woff2",
+      "localRelativePath": "assets/fonts/NgfGZAAbez9.woff2",
+      "publicServeUrl": "/project-files/proj_1794686315776_8b8198/assets/fonts/NgfGZAAbez9.woff2",
+      "mimeType": "font/woff2",
+      "sizeBytes": 19552,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/",
+        "/accounts/emailsignup"
+      ]
+    },
+    {
+      "id": "asset_e2fac946",
+      "category": "fonts",
+      "originalUrl": "https://static.cdninstagram.com/rsrc.php/y3/r/3YmGGif4vvR.woff",
+      "filename": "3YmGGif4vvR.woff",
+      "localRelativePath": "assets/fonts/3YmGGif4vvR.woff",
+      "publicServeUrl": "/project-files/proj_1794686315776_8b8198/assets/fonts/3YmGGif4vvR.woff",
+      "mimeType": "application/x-font-woff",
+      "sizeBytes": 24232,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/",
+        "/accounts/emailsignup"
+      ]
+    },
+    {
+      "id": "asset_44162909",
+      "category": "fonts",
+      "originalUrl": "https://static.cdninstagram.com/rsrc.php/y0/r/4ozoJwSmcc3.woff2",
+      "filename": "4ozoJwSmcc3.woff2",
+      "localRelativePath": "assets/fonts/4ozoJwSmcc3.woff2",
+      "publicServeUrl": "/project-files/proj_1794686315776_8b8198/assets/fonts/4ozoJwSmcc3.woff2",
+      "mimeType": "font/woff2",
+      "sizeBytes": 20300,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/",
+        "/accounts/emailsignup"
+      ]
+    },
+    {
+      "id": "asset_d8cc59b9",
+      "category": "fonts",
+      "originalUrl": "https://static.cdninstagram.com/rsrc.php/yG/r/p0nh2W-T3pK.woff",
+      "filename": "p0nh2W-T3pK.woff",
+      "localRelativePath": "assets/fonts/p0nh2W-T3pK.woff",
+      "publicServeUrl": "/project-files/proj_1794686315776_8b8198/assets/fonts/p0nh2W-T3pK.woff",
+      "mimeType": "application/x-font-woff",
+      "sizeBytes": 24960,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/",
+        "/accounts/emailsignup"
+      ]
+    },
+    {
+      "id": "asset_c1dc049c",
+      "category": "fonts",
+      "originalUrl": "https://static.cdninstagram.com/rsrc.php/yw/r/CrNHpFjZLUv.woff2",
+      "filename": "CrNHpFjZLUv.woff2",
+      "localRelativePath": "assets/fonts/CrNHpFjZLUv.woff2",
+      "publicServeUrl": "/project-files/proj_1794686315776_8b8198/assets/fonts/CrNHpFjZLUv.woff2",
+      "mimeType": "font/woff2",
+      "sizeBytes": 20532,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/",
+        "/accounts/emailsignup"
+      ]
+    },
+    {
+      "id": "asset_d1d8cd41",
+      "category": "fonts",
+      "originalUrl": "https://static.cdninstagram.com/rsrc.php/yf/r/OD1QRDKakZh.woff",
+      "filename": "OD1QRDKakZh.woff",
+      "localRelativePath": "assets/fonts/OD1QRDKakZh.woff",
+      "publicServeUrl": "/project-files/proj_1794686315776_8b8198/assets/fonts/OD1QRDKakZh.woff",
+      "mimeType": "application/x-font-woff",
+      "sizeBytes": 25248,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/",
+        "/accounts/emailsignup"
+      ]
+    },
+    {
+      "id": "asset_df323c22",
+      "category": "fonts",
+      "originalUrl": "https://static.cdninstagram.com/rsrc.php/yl/r/ACM78BvaEDZ.woff2",
+      "filename": "ACM78BvaEDZ.woff2",
+      "localRelativePath": "assets/fonts/ACM78BvaEDZ.woff2",
+      "publicServeUrl": "/project-files/proj_1794686315776_8b8198/assets/fonts/ACM78BvaEDZ.woff2",
+      "mimeType": "font/woff2",
+      "sizeBytes": 29092,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/",
+        "/accounts/emailsignup"
+      ]
+    },
+    {
+      "id": "asset_8f97adb6",
+      "category": "fonts",
+      "originalUrl": "https://static.cdninstagram.com/rsrc.php/yc/r/2h3mC7tJYzQ.woff",
+      "filename": "2h3mC7tJYzQ.woff",
+      "localRelativePath": "assets/fonts/2h3mC7tJYzQ.woff",
+      "publicServeUrl": "/project-files/proj_1794686315776_8b8198/assets/fonts/2h3mC7tJYzQ.woff",
+      "mimeType": "application/x-font-woff",
+      "sizeBytes": 35936,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/",
+        "/accounts/emailsignup"
+      ]
+    },
+    {
+      "id": "asset_c94ab63f",
+      "category": "fonts",
+      "originalUrl": "https://static.cdninstagram.com/rsrc.php/yd/r/icTeuzc84q0.woff2",
+      "filename": "icTeuzc84q0.woff2",
+      "localRelativePath": "assets/fonts/icTeuzc84q0.woff2",
+      "publicServeUrl": "/project-files/proj_1794686315776_8b8198/assets/fonts/icTeuzc84q0.woff2",
+      "mimeType": "font/woff2",
+      "sizeBytes": 29292,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/",
+        "/accounts/emailsignup"
+      ]
+    },
+    {
+      "id": "asset_f4654548",
+      "category": "fonts",
+      "originalUrl": "https://static.cdninstagram.com/rsrc.php/yF/r/WoLIyErNLpI.woff",
+      "filename": "WoLIyErNLpI.woff",
+      "localRelativePath": "assets/fonts/WoLIyErNLpI.woff",
+      "publicServeUrl": "/project-files/proj_1794686315776_8b8198/assets/fonts/WoLIyErNLpI.woff",
+      "mimeType": "application/x-font-woff",
+      "sizeBytes": 35960,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/",
+        "/accounts/emailsignup"
+      ]
+    },
+    {
+      "id": "asset_76b27665",
+      "category": "fonts",
+      "originalUrl": "https://static.cdninstagram.com/rsrc.php/yb/r/SRqN16ICttb.woff2",
+      "filename": "SRqN16ICttb.woff2",
+      "localRelativePath": "assets/fonts/SRqN16ICttb.woff2",
+      "publicServeUrl": "/project-files/proj_1794686315776_8b8198/assets/fonts/SRqN16ICttb.woff2",
+      "mimeType": "font/woff2",
+      "sizeBytes": 30016,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/",
+        "/accounts/emailsignup"
+      ]
+    },
+    {
+      "id": "asset_5311147c",
+      "category": "fonts",
+      "originalUrl": "https://static.cdninstagram.com/rsrc.php/y-/r/k-7CnE15sOg.woff",
+      "filename": "k-7CnE15sOg.woff",
+      "localRelativePath": "assets/fonts/k-7CnE15sOg.woff",
+      "publicServeUrl": "/project-files/proj_1794686315776_8b8198/assets/fonts/k-7CnE15sOg.woff",
+      "mimeType": "application/x-font-woff",
+      "sizeBytes": 36680,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/",
+        "/accounts/emailsignup"
+      ]
+    },
+    {
+      "id": "asset_d595ccfa",
+      "category": "fonts",
+      "originalUrl": "https://static.cdninstagram.com/rsrc.php/y9/r/1GOXakOP6QP.woff2",
+      "filename": "1GOXakOP6QP.woff2",
+      "localRelativePath": "assets/fonts/1GOXakOP6QP.woff2",
+      "publicServeUrl": "/project-files/proj_1794686315776_8b8198/assets/fonts/1GOXakOP6QP.woff2",
+      "mimeType": "font/woff2",
+      "sizeBytes": 33192,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/"
+      ]
+    },
+    {
+      "id": "asset_5116d1bd",
+      "category": "fonts",
+      "originalUrl": "https://static.cdninstagram.com/rsrc.php/yB/r/ym0qpfmGAgs.woff",
+      "filename": "ym0qpfmGAgs.woff",
+      "localRelativePath": "assets/fonts/ym0qpfmGAgs.woff",
+      "publicServeUrl": "/project-files/proj_1794686315776_8b8198/assets/fonts/ym0qpfmGAgs.woff",
+      "mimeType": "application/x-font-woff",
+      "sizeBytes": 42588,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/"
+      ]
+    },
+    {
+      "id": "asset_5c5fc455",
+      "category": "fonts",
+      "originalUrl": "https://static.cdninstagram.com/rsrc.php/yn/r/St8jE4kAoWJ.woff2",
+      "filename": "St8jE4kAoWJ.woff2",
+      "localRelativePath": "assets/fonts/St8jE4kAoWJ.woff2",
+      "publicServeUrl": "/project-files/proj_1794686315776_8b8198/assets/fonts/St8jE4kAoWJ.woff2",
+      "mimeType": "font/woff2",
+      "sizeBytes": 33588,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/"
+      ]
+    },
+    {
+      "id": "asset_32a24573",
+      "category": "fonts",
+      "originalUrl": "https://static.cdninstagram.com/rsrc.php/yP/r/PN87aGBFJcp.woff",
+      "filename": "PN87aGBFJcp.woff",
+      "localRelativePath": "assets/fonts/PN87aGBFJcp.woff",
+      "publicServeUrl": "/project-files/proj_1794686315776_8b8198/assets/fonts/PN87aGBFJcp.woff",
+      "mimeType": "application/x-font-woff",
+      "sizeBytes": 43156,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/"
+      ]
+    },
+    {
+      "id": "asset_f36f59d2",
+      "category": "images",
+      "originalUrl": "https://static.cdninstagram.com/rsrc.php/yR/r/92ZsVHNkyvf.webp",
+      "filename": "92ZsVHNkyvf.webp",
+      "localRelativePath": "assets/images/92ZsVHNkyvf.webp",
+      "publicServeUrl": "/project-files/proj_1794686315776_8b8198/assets/images/92ZsVHNkyvf.webp",
+      "mimeType": "image/webp",
+      "sizeBytes": 565818,
+      "width": 1647,
+      "height": 1362,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/"
+      ]
+    },
+    {
+      "id": "asset_fb0b5897",
+      "category": "images",
+      "originalUrl": "https://static.cdninstagram.com/rsrc.php/v4/yD/r/R0fBIMurK8v.png",
+      "filename": "R0fBIMurK8v.png",
+      "localRelativePath": "assets/images/R0fBIMurK8v.png",
+      "publicServeUrl": "/project-files/proj_1794686315776_8b8198/assets/images/R0fBIMurK8v.png",
+      "mimeType": "image/png",
+      "sizeBytes": 778568,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/"
+      ]
+    },
+    {
+      "id": "asset_bf2b9bbd",
+      "category": "icons",
+      "originalUrl": "inline-svg://icon-aaf082bc41",
+      "filename": "icon_60.svg",
+      "localRelativePath": "assets/icons/icon_60.svg",
+      "publicServeUrl": "/project-files/proj_1794686315776_8b8198/assets/icons/icon_60.svg",
+      "mimeType": "image/svg+xml",
+      "sizeBytes": 465,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/"
+      ]
+    },
+    {
+      "id": "asset_b7d336f2",
+      "category": "icons",
+      "originalUrl": "inline-svg://icon-708a01f79d",
+      "filename": "icon_61.svg",
+      "localRelativePath": "assets/icons/icon_61.svg",
+      "publicServeUrl": "/project-files/proj_1794686315776_8b8198/assets/icons/icon_61.svg",
+      "mimeType": "image/svg+xml",
+      "sizeBytes": 4393,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/"
+      ]
+    },
+    {
+      "id": "asset_f7521b36",
+      "category": "icons",
+      "originalUrl": "inline-svg://icon-6a89c2abda",
+      "filename": "icon_62.svg",
+      "localRelativePath": "assets/icons/icon_62.svg",
+      "publicServeUrl": "/project-files/proj_1794686315776_8b8198/assets/icons/icon_62.svg",
+      "mimeType": "image/svg+xml",
+      "sizeBytes": 341,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/",
+        "/accounts/emailsignup"
+      ]
+    },
+    {
+      "id": "asset_0a43eece",
+      "category": "icons",
+      "originalUrl": "inline-svg://icon-32c0ca2788",
+      "filename": "icon_63.svg",
+      "localRelativePath": "assets/icons/icon_63.svg",
+      "publicServeUrl": "/project-files/proj_1794686315776_8b8198/assets/icons/icon_63.svg",
+      "mimeType": "image/svg+xml",
+      "sizeBytes": 286,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/",
+        "/accounts/emailsignup"
+      ]
+    },
+    {
+      "id": "asset_8c5c8a82",
+      "category": "icons",
+      "originalUrl": "inline-svg://icon-c93115d5b1",
+      "filename": "icon_64.svg",
+      "localRelativePath": "assets/icons/icon_64.svg",
+      "publicServeUrl": "/project-files/proj_1794686315776_8b8198/assets/icons/icon_64.svg",
+      "mimeType": "image/svg+xml",
+      "sizeBytes": 690,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/",
+        "/accounts/emailsignup"
+      ]
+    },
+    {
+      "id": "asset_81421091",
+      "category": "icons",
+      "originalUrl": "inline-svg://icon-4ab666fdf4",
+      "filename": "icon_65.svg",
+      "localRelativePath": "assets/icons/icon_65.svg",
+      "publicServeUrl": "/project-files/proj_1794686315776_8b8198/assets/icons/icon_65.svg",
+      "mimeType": "image/svg+xml",
+      "sizeBytes": 535,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/",
+        "/accounts/emailsignup"
+      ]
+    },
+    {
+      "id": "asset_83cc11a4",
+      "category": "icons",
+      "originalUrl": "inline-svg://icon-e55e0bb5ce",
+      "filename": "icon_66.svg",
+      "localRelativePath": "assets/icons/icon_66.svg",
+      "publicServeUrl": "/project-files/proj_1794686315776_8b8198/assets/icons/icon_66.svg",
+      "mimeType": "image/svg+xml",
+      "sizeBytes": 939,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/",
+        "/accounts/emailsignup"
+      ]
+    },
+    {
+      "id": "asset_3a314f81",
+      "category": "icons",
+      "originalUrl": "inline-svg://icon-f5399c19c0",
+      "filename": "icon_67.svg",
+      "localRelativePath": "assets/icons/icon_67.svg",
+      "publicServeUrl": "/project-files/proj_1794686315776_8b8198/assets/icons/icon_67.svg",
+      "mimeType": "image/svg+xml",
+      "sizeBytes": 477,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/",
+        "/accounts/emailsignup"
+      ]
+    },
+    {
+      "id": "asset_2fa9df78",
+      "category": "icons",
+      "originalUrl": "inline-svg://icon-3025b2ae4b",
+      "filename": "icon_68.svg",
+      "localRelativePath": "assets/icons/icon_68.svg",
+      "publicServeUrl": "/project-files/proj_1794686315776_8b8198/assets/icons/icon_68.svg",
+      "mimeType": "image/svg+xml",
+      "sizeBytes": 330,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/",
+        "/accounts/emailsignup"
+      ]
+    },
+    {
+      "id": "asset_934abc0d",
+      "category": "icons",
+      "originalUrl": "inline-svg://icon-e338fc1fd5",
+      "filename": "icon_69.svg",
+      "localRelativePath": "assets/icons/icon_69.svg",
+      "publicServeUrl": "/project-files/proj_1794686315776_8b8198/assets/icons/icon_69.svg",
+      "mimeType": "image/svg+xml",
+      "sizeBytes": 390,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/",
+        "/accounts/emailsignup"
+      ]
+    },
+    {
+      "id": "asset_e2facb86",
+      "category": "icons",
+      "originalUrl": "inline-svg://icon-a577df91e1",
+      "filename": "icon_70.svg",
+      "localRelativePath": "assets/icons/icon_70.svg",
+      "publicServeUrl": "/project-files/proj_1794686315776_8b8198/assets/icons/icon_70.svg",
+      "mimeType": "image/svg+xml",
+      "sizeBytes": 352,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/accounts/emailsignup"
+      ]
+    },
+    {
+      "id": "asset_77a761ea",
+      "category": "icons",
+      "originalUrl": "inline-svg://icon-b289645adf",
+      "filename": "icon_71.svg",
+      "localRelativePath": "assets/icons/icon_71.svg",
+      "publicServeUrl": "/project-files/proj_1794686315776_8b8198/assets/icons/icon_71.svg",
+      "mimeType": "image/svg+xml",
+      "sizeBytes": 4393,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/accounts/emailsignup"
+      ]
+    },
+    {
+      "id": "asset_5343d70b",
+      "category": "icons",
+      "originalUrl": "inline-svg://icon-8d557a8a75",
+      "filename": "icon_72.svg",
+      "localRelativePath": "assets/icons/icon_72.svg",
+      "publicServeUrl": "/project-files/proj_1794686315776_8b8198/assets/icons/icon_72.svg",
+      "mimeType": "image/svg+xml",
+      "sizeBytes": 484,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/accounts/emailsignup"
+      ]
+    },
+    {
+      "id": "asset_e7c3a262",
+      "category": "icons",
+      "originalUrl": "inline-svg://icon-20deb9a0ae",
+      "filename": "icon_73.svg",
+      "localRelativePath": "assets/icons/icon_73.svg",
+      "publicServeUrl": "/project-files/proj_1794686315776_8b8198/assets/icons/icon_73.svg",
+      "mimeType": "image/svg+xml",
+      "sizeBytes": 353,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/accounts/emailsignup"
+      ]
+    },
+    {
+      "id": "asset_ed926d2f",
+      "category": "icons",
+      "originalUrl": "inline-svg://icon-21b0dd6463",
+      "filename": "icon_74.svg",
+      "localRelativePath": "assets/icons/icon_74.svg",
+      "publicServeUrl": "/project-files/proj_1794686315776_8b8198/assets/icons/icon_74.svg",
+      "mimeType": "image/svg+xml",
+      "sizeBytes": 700,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/accounts/emailsignup"
+      ]
+    },
+    {
+      "id": "asset_2fe2ba05",
+      "category": "fonts",
+      "originalUrl": "https://static.xx.fbcdn.net/rsrc.php/yH/r/c_1vdG88uNh.woff2",
+      "filename": "c_1vdG88uNh.woff2",
+      "localRelativePath": "assets/fonts/c_1vdG88uNh.woff2",
+      "publicServeUrl": "/project-files/proj_1794686315776_8b8198/assets/fonts/c_1vdG88uNh.woff2",
+      "mimeType": "font/woff2",
+      "sizeBytes": 11016,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/legal/privacy",
+        "/legal/terms"
+      ]
+    },
+    {
+      "id": "asset_b51a3bc7",
+      "category": "fonts",
+      "originalUrl": "https://static.xx.fbcdn.net/rsrc.php/yN/r/KKlOyJQcRfr.woff",
+      "filename": "KKlOyJQcRfr.woff",
+      "localRelativePath": "assets/fonts/KKlOyJQcRfr.woff",
+      "publicServeUrl": "/project-files/proj_1794686315776_8b8198/assets/fonts/KKlOyJQcRfr.woff",
+      "mimeType": "application/x-font-woff",
+      "sizeBytes": 85876,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/legal/privacy",
+        "/legal/terms"
+      ]
+    },
+    {
+      "id": "asset_51c55cb9",
+      "category": "fonts",
+      "originalUrl": "https://static.xx.fbcdn.net/rsrc.php/yh/r/pXADmoqqN0T.woff2",
+      "filename": "pXADmoqqN0T.woff2",
+      "localRelativePath": "assets/fonts/pXADmoqqN0T.woff2",
+      "publicServeUrl": "/project-files/proj_1794686315776_8b8198/assets/fonts/pXADmoqqN0T.woff2",
+      "mimeType": "font/woff2",
+      "sizeBytes": 12680,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/legal/privacy",
+        "/legal/terms"
+      ]
+    },
+    {
+      "id": "asset_9438d757",
+      "category": "fonts",
+      "originalUrl": "https://static.xx.fbcdn.net/rsrc.php/yX/r/4JKQuH0Oopd.woff",
+      "filename": "4JKQuH0Oopd.woff",
+      "localRelativePath": "assets/fonts/4JKQuH0Oopd.woff",
+      "publicServeUrl": "/project-files/proj_1794686315776_8b8198/assets/fonts/4JKQuH0Oopd.woff",
+      "mimeType": "application/x-font-woff",
+      "sizeBytes": 91728,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/legal/privacy",
+        "/legal/terms"
+      ]
+    },
+    {
+      "id": "asset_7e52578a",
+      "category": "fonts",
+      "originalUrl": "https://static.xx.fbcdn.net/rsrc.php/yU/r/zSaFQ46AO2w.woff2",
+      "filename": "zSaFQ46AO2w.woff2",
+      "localRelativePath": "assets/fonts/zSaFQ46AO2w.woff2",
+      "publicServeUrl": "/project-files/proj_1794686315776_8b8198/assets/fonts/zSaFQ46AO2w.woff2",
+      "mimeType": "font/woff2",
+      "sizeBytes": 11020,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/legal/privacy",
+        "/legal/terms"
+      ]
+    },
+    {
+      "id": "asset_93570774",
+      "category": "fonts",
+      "originalUrl": "https://static.xx.fbcdn.net/rsrc.php/yR/r/_gCoI-iROin.woff",
+      "filename": "_gCoI-iROin.woff",
+      "localRelativePath": "assets/fonts/_gCoI-iROin.woff",
+      "publicServeUrl": "/project-files/proj_1794686315776_8b8198/assets/fonts/_gCoI-iROin.woff",
+      "mimeType": "application/x-font-woff",
+      "sizeBytes": 86184,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/legal/privacy",
+        "/legal/terms"
+      ]
+    },
+    {
+      "id": "asset_cf93ea1a",
+      "category": "fonts",
+      "originalUrl": "https://static.xx.fbcdn.net/rsrc.php/yo/r/Tq0RmTByOSK.woff2",
+      "filename": "Tq0RmTByOSK.woff2",
+      "localRelativePath": "assets/fonts/Tq0RmTByOSK.woff2",
+      "publicServeUrl": "/project-files/proj_1794686315776_8b8198/assets/fonts/Tq0RmTByOSK.woff2",
+      "mimeType": "font/woff2",
+      "sizeBytes": 12688,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/legal/privacy",
+        "/legal/terms"
+      ]
+    },
+    {
+      "id": "asset_98fb342c",
+      "category": "fonts",
+      "originalUrl": "https://static.xx.fbcdn.net/rsrc.php/yM/r/AaoylUgS9_g.woff",
+      "filename": "AaoylUgS9_g.woff",
+      "localRelativePath": "assets/fonts/AaoylUgS9_g.woff",
+      "publicServeUrl": "/project-files/proj_1794686315776_8b8198/assets/fonts/AaoylUgS9_g.woff",
+      "mimeType": "application/x-font-woff",
+      "sizeBytes": 91968,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/legal/privacy",
+        "/legal/terms"
+      ]
+    },
+    {
+      "id": "asset_a3b9c5c0",
+      "category": "fonts",
+      "originalUrl": "https://static.xx.fbcdn.net/rsrc.php/yJ/r/G4CvqQXT71s.woff2",
+      "filename": "G4CvqQXT71s_1.woff2",
+      "localRelativePath": "assets/fonts/G4CvqQXT71s_1.woff2",
+      "publicServeUrl": "/project-files/proj_1794686315776_8b8198/assets/fonts/G4CvqQXT71s_1.woff2",
+      "mimeType": "font/woff2",
+      "sizeBytes": 22328,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/legal/privacy",
+        "/legal/terms"
+      ]
+    },
+    {
+      "id": "asset_50ed3dae",
+      "category": "fonts",
+      "originalUrl": "https://static.xx.fbcdn.net/rsrc.php/yu/r/3nJF2AW_2KI.woff",
+      "filename": "3nJF2AW_2KI_1.woff",
+      "localRelativePath": "assets/fonts/3nJF2AW_2KI_1.woff",
+      "publicServeUrl": "/project-files/proj_1794686315776_8b8198/assets/fonts/3nJF2AW_2KI_1.woff",
+      "mimeType": "application/x-font-woff",
+      "sizeBytes": 27348,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/legal/privacy",
+        "/legal/terms"
+      ]
+    },
+    {
+      "id": "asset_3e0af4db",
+      "category": "fonts",
+      "originalUrl": "https://static.xx.fbcdn.net/rsrc.php/y2/r/6YirsaXqsap.woff2",
+      "filename": "6YirsaXqsap_1.woff2",
+      "localRelativePath": "assets/fonts/6YirsaXqsap_1.woff2",
+      "publicServeUrl": "/project-files/proj_1794686315776_8b8198/assets/fonts/6YirsaXqsap_1.woff2",
+      "mimeType": "font/woff2",
+      "sizeBytes": 22576,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/legal/privacy",
+        "/legal/terms"
+      ]
+    },
+    {
+      "id": "asset_f24ebbe4",
+      "category": "fonts",
+      "originalUrl": "https://static.xx.fbcdn.net/rsrc.php/yN/r/A8MP726Y7RW.woff",
+      "filename": "A8MP726Y7RW_1.woff",
+      "localRelativePath": "assets/fonts/A8MP726Y7RW_1.woff",
+      "publicServeUrl": "/project-files/proj_1794686315776_8b8198/assets/fonts/A8MP726Y7RW_1.woff",
+      "mimeType": "application/x-font-woff",
+      "sizeBytes": 27716,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/legal/privacy",
+        "/legal/terms"
+      ]
+    },
+    {
+      "id": "asset_601d0e0e",
+      "category": "fonts",
+      "originalUrl": "https://static.xx.fbcdn.net/rsrc.php/ye/r/ndhgOwkNmDs.woff2",
+      "filename": "ndhgOwkNmDs_1.woff2",
+      "localRelativePath": "assets/fonts/ndhgOwkNmDs_1.woff2",
+      "publicServeUrl": "/project-files/proj_1794686315776_8b8198/assets/fonts/ndhgOwkNmDs_1.woff2",
+      "mimeType": "font/woff2",
+      "sizeBytes": 23448,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/legal/privacy",
+        "/legal/terms"
+      ]
+    },
+    {
+      "id": "asset_255e266c",
+      "category": "fonts",
+      "originalUrl": "https://static.xx.fbcdn.net/rsrc.php/y3/r/g6ncoEztC_N.woff",
+      "filename": "g6ncoEztC_N_1.woff",
+      "localRelativePath": "assets/fonts/g6ncoEztC_N_1.woff",
+      "publicServeUrl": "/project-files/proj_1794686315776_8b8198/assets/fonts/g6ncoEztC_N_1.woff",
+      "mimeType": "application/x-font-woff",
+      "sizeBytes": 28644,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/legal/privacy",
+        "/legal/terms"
+      ]
+    },
+    {
+      "id": "asset_ee2fd9b2",
+      "category": "fonts",
+      "originalUrl": "https://static.xx.fbcdn.net/rsrc.php/y8/r/WF8VhTuShVE.woff2",
+      "filename": "WF8VhTuShVE_1.woff2",
+      "localRelativePath": "assets/fonts/WF8VhTuShVE_1.woff2",
+      "publicServeUrl": "/project-files/proj_1794686315776_8b8198/assets/fonts/WF8VhTuShVE_1.woff2",
+      "mimeType": "font/woff2",
+      "sizeBytes": 23488,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/legal/privacy",
+        "/legal/terms"
+      ]
+    },
+    {
+      "id": "asset_71bfe3cb",
+      "category": "fonts",
+      "originalUrl": "https://static.xx.fbcdn.net/rsrc.php/yC/r/Oe0HWHR8zW7.woff",
+      "filename": "Oe0HWHR8zW7_1.woff",
+      "localRelativePath": "assets/fonts/Oe0HWHR8zW7_1.woff",
+      "publicServeUrl": "/project-files/proj_1794686315776_8b8198/assets/fonts/Oe0HWHR8zW7_1.woff",
+      "mimeType": "application/x-font-woff",
+      "sizeBytes": 28668,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/legal/privacy",
+        "/legal/terms"
+      ]
+    },
+    {
+      "id": "asset_c9c0c10b",
+      "category": "fonts",
+      "originalUrl": "https://static.xx.fbcdn.net/rsrc.php/yO/r/_IxD8PqgShI.woff2",
+      "filename": "_IxD8PqgShI_1.woff2",
+      "localRelativePath": "assets/fonts/_IxD8PqgShI_1.woff2",
+      "publicServeUrl": "/project-files/proj_1794686315776_8b8198/assets/fonts/_IxD8PqgShI_1.woff2",
+      "mimeType": "font/woff2",
+      "sizeBytes": 23140,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/legal/privacy",
+        "/legal/terms"
+      ]
+    },
+    {
+      "id": "asset_19b9b6d5",
+      "category": "fonts",
+      "originalUrl": "https://static.xx.fbcdn.net/rsrc.php/yI/r/XSfIGfuYAms.woff",
+      "filename": "XSfIGfuYAms_1.woff",
+      "localRelativePath": "assets/fonts/XSfIGfuYAms_1.woff",
+      "publicServeUrl": "/project-files/proj_1794686315776_8b8198/assets/fonts/XSfIGfuYAms_1.woff",
+      "mimeType": "application/x-font-woff",
+      "sizeBytes": 28416,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/legal/privacy",
+        "/legal/terms"
+      ]
+    },
+    {
+      "id": "asset_7bd6b4bd",
+      "category": "fonts",
+      "originalUrl": "https://static.xx.fbcdn.net/rsrc.php/ye/r/KjRMIwI5MLI.woff2",
+      "filename": "KjRMIwI5MLI_1.woff2",
+      "localRelativePath": "assets/fonts/KjRMIwI5MLI_1.woff2",
+      "publicServeUrl": "/project-files/proj_1794686315776_8b8198/assets/fonts/KjRMIwI5MLI_1.woff2",
+      "mimeType": "font/woff2",
+      "sizeBytes": 19816,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/legal/privacy",
+        "/legal/terms"
+      ]
+    },
+    {
+      "id": "asset_4e78148a",
+      "category": "fonts",
+      "originalUrl": "https://static.xx.fbcdn.net/rsrc.php/y5/r/2kK0RUn3aHt.woff",
+      "filename": "2kK0RUn3aHt_1.woff",
+      "localRelativePath": "assets/fonts/2kK0RUn3aHt_1.woff",
+      "publicServeUrl": "/project-files/proj_1794686315776_8b8198/assets/fonts/2kK0RUn3aHt_1.woff",
+      "mimeType": "application/x-font-woff",
+      "sizeBytes": 24484,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/legal/privacy",
+        "/legal/terms"
+      ]
+    },
+    {
+      "id": "asset_9d124487",
+      "category": "fonts",
+      "originalUrl": "https://static.xx.fbcdn.net/rsrc.php/yT/r/577bYCjitsm.woff2",
+      "filename": "577bYCjitsm_1.woff2",
+      "localRelativePath": "assets/fonts/577bYCjitsm_1.woff2",
+      "publicServeUrl": "/project-files/proj_1794686315776_8b8198/assets/fonts/577bYCjitsm_1.woff2",
+      "mimeType": "font/woff2",
+      "sizeBytes": 19972,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/legal/privacy",
+        "/legal/terms"
+      ]
+    },
+    {
+      "id": "asset_11186c31",
+      "category": "fonts",
+      "originalUrl": "https://static.xx.fbcdn.net/rsrc.php/y-/r/IOMVSiO_79n.woff",
+      "filename": "IOMVSiO_79n_1.woff",
+      "localRelativePath": "assets/fonts/IOMVSiO_79n_1.woff",
+      "publicServeUrl": "/project-files/proj_1794686315776_8b8198/assets/fonts/IOMVSiO_79n_1.woff",
+      "mimeType": "application/x-font-woff",
+      "sizeBytes": 24660,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/legal/privacy",
+        "/legal/terms"
+      ]
+    },
+    {
+      "id": "asset_e3b414a7",
+      "category": "fonts",
+      "originalUrl": "https://static.xx.fbcdn.net/rsrc.php/yQ/r/6sGd9jAF7-G.woff2",
+      "filename": "6sGd9jAF7-G_1.woff2",
+      "localRelativePath": "assets/fonts/6sGd9jAF7-G_1.woff2",
+      "publicServeUrl": "/project-files/proj_1794686315776_8b8198/assets/fonts/6sGd9jAF7-G_1.woff2",
+      "mimeType": "font/woff2",
+      "sizeBytes": 20924,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/legal/privacy",
+        "/legal/terms"
+      ]
+    },
+    {
+      "id": "asset_fe69f61e",
+      "category": "fonts",
+      "originalUrl": "https://static.xx.fbcdn.net/rsrc.php/yj/r/tfxfr82lQhK.woff",
+      "filename": "tfxfr82lQhK_1.woff",
+      "localRelativePath": "assets/fonts/tfxfr82lQhK_1.woff",
+      "publicServeUrl": "/project-files/proj_1794686315776_8b8198/assets/fonts/tfxfr82lQhK_1.woff",
+      "mimeType": "application/x-font-woff",
+      "sizeBytes": 25672,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/legal/privacy",
+        "/legal/terms"
+      ]
+    },
+    {
+      "id": "asset_c60993a3",
+      "category": "fonts",
+      "originalUrl": "https://static.xx.fbcdn.net/rsrc.php/yv/r/1lvRwR8FCtJ.woff2",
+      "filename": "1lvRwR8FCtJ_1.woff2",
+      "localRelativePath": "assets/fonts/1lvRwR8FCtJ_1.woff2",
+      "publicServeUrl": "/project-files/proj_1794686315776_8b8198/assets/fonts/1lvRwR8FCtJ_1.woff2",
+      "mimeType": "font/woff2",
+      "sizeBytes": 29304,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/legal/privacy",
+        "/legal/terms"
+      ]
+    },
+    {
+      "id": "asset_3ddbff33",
+      "category": "fonts",
+      "originalUrl": "https://static.xx.fbcdn.net/rsrc.php/yG/r/ffP85_okaMb.woff",
+      "filename": "ffP85_okaMb_1.woff",
+      "localRelativePath": "assets/fonts/ffP85_okaMb_1.woff",
+      "publicServeUrl": "/project-files/proj_1794686315776_8b8198/assets/fonts/ffP85_okaMb_1.woff",
+      "mimeType": "application/x-font-woff",
+      "sizeBytes": 36232,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/legal/privacy",
+        "/legal/terms"
+      ]
+    },
+    {
+      "id": "asset_17196140",
+      "category": "fonts",
+      "originalUrl": "https://static.xx.fbcdn.net/rsrc.php/yV/r/KandUw__L2Y.woff2",
+      "filename": "KandUw__L2Y_1.woff2",
+      "localRelativePath": "assets/fonts/KandUw__L2Y_1.woff2",
+      "publicServeUrl": "/project-files/proj_1794686315776_8b8198/assets/fonts/KandUw__L2Y_1.woff2",
+      "mimeType": "font/woff2",
+      "sizeBytes": 29112,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/legal/privacy",
+        "/legal/terms"
+      ]
+    },
+    {
+      "id": "asset_3bf06eb8",
+      "category": "fonts",
+      "originalUrl": "https://static.xx.fbcdn.net/rsrc.php/yE/r/eMwOw8vF5hG.woff",
+      "filename": "eMwOw8vF5hG_1.woff",
+      "localRelativePath": "assets/fonts/eMwOw8vF5hG_1.woff",
+      "publicServeUrl": "/project-files/proj_1794686315776_8b8198/assets/fonts/eMwOw8vF5hG_1.woff",
+      "mimeType": "application/x-font-woff",
+      "sizeBytes": 35908,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/legal/privacy",
+        "/legal/terms"
+      ]
+    },
+    {
+      "id": "asset_944ee4e5",
+      "category": "fonts",
+      "originalUrl": "https://static.xx.fbcdn.net/rsrc.php/y2/r/Y5UW-giPmlu.woff2",
+      "filename": "Y5UW-giPmlu_1.woff2",
+      "localRelativePath": "assets/fonts/Y5UW-giPmlu_1.woff2",
+      "publicServeUrl": "/project-files/proj_1794686315776_8b8198/assets/fonts/Y5UW-giPmlu_1.woff2",
+      "mimeType": "font/woff2",
+      "sizeBytes": 29780,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/legal/privacy",
+        "/legal/terms"
+      ]
+    },
+    {
+      "id": "asset_1b076f80",
+      "category": "fonts",
+      "originalUrl": "https://static.xx.fbcdn.net/rsrc.php/yI/r/t1juam039_W.woff",
+      "filename": "t1juam039_W_1.woff",
+      "localRelativePath": "assets/fonts/t1juam039_W_1.woff",
+      "publicServeUrl": "/project-files/proj_1794686315776_8b8198/assets/fonts/t1juam039_W_1.woff",
+      "mimeType": "application/x-font-woff",
+      "sizeBytes": 36484,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/legal/privacy",
+        "/legal/terms"
+      ]
+    },
+    {
+      "id": "asset_ddd13deb",
+      "category": "fonts",
+      "originalUrl": "https://static.xx.fbcdn.net/rsrc.php/y7/r/7IYPg3-s_Dn.woff2",
+      "filename": "7IYPg3-s_Dn_1.woff2",
+      "localRelativePath": "assets/fonts/7IYPg3-s_Dn_1.woff2",
+      "publicServeUrl": "/project-files/proj_1794686315776_8b8198/assets/fonts/7IYPg3-s_Dn_1.woff2",
+      "mimeType": "font/woff2",
+      "sizeBytes": 22156,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/legal/privacy",
+        "/legal/terms"
+      ]
+    },
+    {
+      "id": "asset_5f5bb853",
+      "category": "fonts",
+      "originalUrl": "https://static.xx.fbcdn.net/rsrc.php/yY/r/ynHedIfBxVA.woff",
+      "filename": "ynHedIfBxVA_1.woff",
+      "localRelativePath": "assets/fonts/ynHedIfBxVA_1.woff",
+      "publicServeUrl": "/project-files/proj_1794686315776_8b8198/assets/fonts/ynHedIfBxVA_1.woff",
+      "mimeType": "application/x-font-woff",
+      "sizeBytes": 27192,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/legal/privacy",
+        "/legal/terms"
+      ]
+    },
+    {
+      "id": "asset_e0fc76cd",
+      "category": "fonts",
+      "originalUrl": "https://static.xx.fbcdn.net/rsrc.php/yL/r/jfwoHaS3i0K.woff2",
+      "filename": "jfwoHaS3i0K_1.woff2",
+      "localRelativePath": "assets/fonts/jfwoHaS3i0K_1.woff2",
+      "publicServeUrl": "/project-files/proj_1794686315776_8b8198/assets/fonts/jfwoHaS3i0K_1.woff2",
+      "mimeType": "font/woff2",
+      "sizeBytes": 22860,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/legal/privacy",
+        "/legal/terms"
+      ]
+    },
+    {
+      "id": "asset_fcb253b7",
+      "category": "fonts",
+      "originalUrl": "https://static.xx.fbcdn.net/rsrc.php/yx/r/fTvKFwGz9bf.woff",
+      "filename": "fTvKFwGz9bf_1.woff",
+      "localRelativePath": "assets/fonts/fTvKFwGz9bf_1.woff",
+      "publicServeUrl": "/project-files/proj_1794686315776_8b8198/assets/fonts/fTvKFwGz9bf_1.woff",
+      "mimeType": "application/x-font-woff",
+      "sizeBytes": 28008,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/legal/privacy",
+        "/legal/terms"
+      ]
+    },
+    {
+      "id": "asset_859f37cd",
+      "category": "fonts",
+      "originalUrl": "https://static.xx.fbcdn.net/rsrc.php/yo/r/n0aIRIy9q6Y.woff2",
+      "filename": "n0aIRIy9q6Y_1.woff2",
+      "localRelativePath": "assets/fonts/n0aIRIy9q6Y_1.woff2",
+      "publicServeUrl": "/project-files/proj_1794686315776_8b8198/assets/fonts/n0aIRIy9q6Y_1.woff2",
+      "mimeType": "font/woff2",
+      "sizeBytes": 23596,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/legal/privacy",
+        "/legal/terms"
+      ]
+    },
+    {
+      "id": "asset_2385b252",
+      "category": "fonts",
+      "originalUrl": "https://static.xx.fbcdn.net/rsrc.php/yJ/r/ZdS7UjU8lD8.woff",
+      "filename": "ZdS7UjU8lD8_1.woff",
+      "localRelativePath": "assets/fonts/ZdS7UjU8lD8_1.woff",
+      "publicServeUrl": "/project-files/proj_1794686315776_8b8198/assets/fonts/ZdS7UjU8lD8_1.woff",
+      "mimeType": "application/x-font-woff",
+      "sizeBytes": 28720,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/legal/privacy",
+        "/legal/terms"
+      ]
+    },
+    {
+      "id": "asset_8f258a8d",
+      "category": "fonts",
+      "originalUrl": "https://static.xx.fbcdn.net/rsrc.php/yU/r/WXBYOaYZuYu.woff2",
+      "filename": "WXBYOaYZuYu_1.woff2",
+      "localRelativePath": "assets/fonts/WXBYOaYZuYu_1.woff2",
+      "publicServeUrl": "/project-files/proj_1794686315776_8b8198/assets/fonts/WXBYOaYZuYu_1.woff2",
+      "mimeType": "font/woff2",
+      "sizeBytes": 23676,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/legal/privacy",
+        "/legal/terms"
+      ]
+    },
+    {
+      "id": "asset_875f279e",
+      "category": "fonts",
+      "originalUrl": "https://static.xx.fbcdn.net/rsrc.php/yY/r/uFQSckMfvjy.woff",
+      "filename": "uFQSckMfvjy_1.woff",
+      "localRelativePath": "assets/fonts/uFQSckMfvjy_1.woff",
+      "publicServeUrl": "/project-files/proj_1794686315776_8b8198/assets/fonts/uFQSckMfvjy_1.woff",
+      "mimeType": "application/x-font-woff",
+      "sizeBytes": 28996,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/legal/privacy",
+        "/legal/terms"
+      ]
+    },
+    {
+      "id": "asset_5df0d14e",
+      "category": "fonts",
+      "originalUrl": "https://static.xx.fbcdn.net/rsrc.php/ye/r/NgfGZAAbez9.woff2",
+      "filename": "NgfGZAAbez9_1.woff2",
+      "localRelativePath": "assets/fonts/NgfGZAAbez9_1.woff2",
+      "publicServeUrl": "/project-files/proj_1794686315776_8b8198/assets/fonts/NgfGZAAbez9_1.woff2",
+      "mimeType": "font/woff2",
+      "sizeBytes": 19552,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/legal/privacy",
+        "/legal/terms"
+      ]
+    },
+    {
+      "id": "asset_523f2eb2",
+      "category": "fonts",
+      "originalUrl": "https://static.xx.fbcdn.net/rsrc.php/y3/r/3YmGGif4vvR.woff",
+      "filename": "3YmGGif4vvR_1.woff",
+      "localRelativePath": "assets/fonts/3YmGGif4vvR_1.woff",
+      "publicServeUrl": "/project-files/proj_1794686315776_8b8198/assets/fonts/3YmGGif4vvR_1.woff",
+      "mimeType": "application/x-font-woff",
+      "sizeBytes": 24232,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/legal/privacy",
+        "/legal/terms"
+      ]
+    },
+    {
+      "id": "asset_faa0255c",
+      "category": "fonts",
+      "originalUrl": "https://static.xx.fbcdn.net/rsrc.php/y0/r/4ozoJwSmcc3.woff2",
+      "filename": "4ozoJwSmcc3_1.woff2",
+      "localRelativePath": "assets/fonts/4ozoJwSmcc3_1.woff2",
+      "publicServeUrl": "/project-files/proj_1794686315776_8b8198/assets/fonts/4ozoJwSmcc3_1.woff2",
+      "mimeType": "font/woff2",
+      "sizeBytes": 20300,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/legal/privacy",
+        "/legal/terms"
+      ]
+    },
+    {
+      "id": "asset_998bc170",
+      "category": "fonts",
+      "originalUrl": "https://static.xx.fbcdn.net/rsrc.php/yG/r/p0nh2W-T3pK.woff",
+      "filename": "p0nh2W-T3pK_1.woff",
+      "localRelativePath": "assets/fonts/p0nh2W-T3pK_1.woff",
+      "publicServeUrl": "/project-files/proj_1794686315776_8b8198/assets/fonts/p0nh2W-T3pK_1.woff",
+      "mimeType": "application/x-font-woff",
+      "sizeBytes": 24960,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/legal/privacy",
+        "/legal/terms"
+      ]
+    },
+    {
+      "id": "asset_4e60d5b3",
+      "category": "fonts",
+      "originalUrl": "https://static.xx.fbcdn.net/rsrc.php/yw/r/CrNHpFjZLUv.woff2",
+      "filename": "CrNHpFjZLUv_1.woff2",
+      "localRelativePath": "assets/fonts/CrNHpFjZLUv_1.woff2",
+      "publicServeUrl": "/project-files/proj_1794686315776_8b8198/assets/fonts/CrNHpFjZLUv_1.woff2",
+      "mimeType": "font/woff2",
+      "sizeBytes": 20532,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/legal/privacy",
+        "/legal/terms"
+      ]
+    },
+    {
+      "id": "asset_b15f4f31",
+      "category": "fonts",
+      "originalUrl": "https://static.xx.fbcdn.net/rsrc.php/yf/r/OD1QRDKakZh.woff",
+      "filename": "OD1QRDKakZh_1.woff",
+      "localRelativePath": "assets/fonts/OD1QRDKakZh_1.woff",
+      "publicServeUrl": "/project-files/proj_1794686315776_8b8198/assets/fonts/OD1QRDKakZh_1.woff",
+      "mimeType": "application/x-font-woff",
+      "sizeBytes": 25248,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/legal/privacy",
+        "/legal/terms"
+      ]
+    },
+    {
+      "id": "asset_7a08b529",
+      "category": "fonts",
+      "originalUrl": "https://static.xx.fbcdn.net/rsrc.php/yl/r/ACM78BvaEDZ.woff2",
+      "filename": "ACM78BvaEDZ_1.woff2",
+      "localRelativePath": "assets/fonts/ACM78BvaEDZ_1.woff2",
+      "publicServeUrl": "/project-files/proj_1794686315776_8b8198/assets/fonts/ACM78BvaEDZ_1.woff2",
+      "mimeType": "font/woff2",
+      "sizeBytes": 29092,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/legal/privacy",
+        "/legal/terms"
+      ]
+    },
+    {
+      "id": "asset_24c5d564",
+      "category": "fonts",
+      "originalUrl": "https://static.xx.fbcdn.net/rsrc.php/yc/r/2h3mC7tJYzQ.woff",
+      "filename": "2h3mC7tJYzQ_1.woff",
+      "localRelativePath": "assets/fonts/2h3mC7tJYzQ_1.woff",
+      "publicServeUrl": "/project-files/proj_1794686315776_8b8198/assets/fonts/2h3mC7tJYzQ_1.woff",
+      "mimeType": "application/x-font-woff",
+      "sizeBytes": 35936,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/legal/privacy",
+        "/legal/terms"
+      ]
+    },
+    {
+      "id": "asset_e5cec864",
+      "category": "fonts",
+      "originalUrl": "https://static.xx.fbcdn.net/rsrc.php/yd/r/icTeuzc84q0.woff2",
+      "filename": "icTeuzc84q0_1.woff2",
+      "localRelativePath": "assets/fonts/icTeuzc84q0_1.woff2",
+      "publicServeUrl": "/project-files/proj_1794686315776_8b8198/assets/fonts/icTeuzc84q0_1.woff2",
+      "mimeType": "font/woff2",
+      "sizeBytes": 29292,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/legal/privacy",
+        "/legal/terms"
+      ]
+    },
+    {
+      "id": "asset_85fb360a",
+      "category": "fonts",
+      "originalUrl": "https://static.xx.fbcdn.net/rsrc.php/yF/r/WoLIyErNLpI.woff",
+      "filename": "WoLIyErNLpI_1.woff",
+      "localRelativePath": "assets/fonts/WoLIyErNLpI_1.woff",
+      "publicServeUrl": "/project-files/proj_1794686315776_8b8198/assets/fonts/WoLIyErNLpI_1.woff",
+      "mimeType": "application/x-font-woff",
+      "sizeBytes": 35960,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/legal/privacy",
+        "/legal/terms"
+      ]
+    },
+    {
+      "id": "asset_57cfd682",
+      "category": "fonts",
+      "originalUrl": "https://static.xx.fbcdn.net/rsrc.php/yb/r/SRqN16ICttb.woff2",
+      "filename": "SRqN16ICttb_1.woff2",
+      "localRelativePath": "assets/fonts/SRqN16ICttb_1.woff2",
+      "publicServeUrl": "/project-files/proj_1794686315776_8b8198/assets/fonts/SRqN16ICttb_1.woff2",
+      "mimeType": "font/woff2",
+      "sizeBytes": 30016,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/legal/privacy",
+        "/legal/terms"
+      ]
+    },
+    {
+      "id": "asset_01bb7c50",
+      "category": "fonts",
+      "originalUrl": "https://static.xx.fbcdn.net/rsrc.php/y-/r/k-7CnE15sOg.woff",
+      "filename": "k-7CnE15sOg_1.woff",
+      "localRelativePath": "assets/fonts/k-7CnE15sOg_1.woff",
+      "publicServeUrl": "/project-files/proj_1794686315776_8b8198/assets/fonts/k-7CnE15sOg_1.woff",
+      "mimeType": "application/x-font-woff",
+      "sizeBytes": 36680,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/legal/privacy",
+        "/legal/terms"
+      ]
+    },
+    {
+      "id": "asset_5cdfe2dc",
+      "category": "fonts",
+      "originalUrl": "https://static.xx.fbcdn.net/rsrc.php/yW/r/iMFbRFNa3Jt.woff2",
+      "filename": "iMFbRFNa3Jt_1.woff2",
+      "localRelativePath": "assets/fonts/iMFbRFNa3Jt_1.woff2",
+      "publicServeUrl": "/project-files/proj_1794686315776_8b8198/assets/fonts/iMFbRFNa3Jt_1.woff2",
+      "mimeType": "font/woff2",
+      "sizeBytes": 65148,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/legal/privacy",
+        "/legal/terms"
+      ]
+    },
+    {
+      "id": "asset_d2ebcb5f",
+      "category": "fonts",
+      "originalUrl": "https://static.xx.fbcdn.net/rsrc.php/yq/r/O9ru8M5Sarh.woff2",
+      "filename": "O9ru8M5Sarh_1.woff2",
+      "localRelativePath": "assets/fonts/O9ru8M5Sarh_1.woff2",
+      "publicServeUrl": "/project-files/proj_1794686315776_8b8198/assets/fonts/O9ru8M5Sarh_1.woff2",
+      "mimeType": "font/woff2",
+      "sizeBytes": 72716,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/legal/privacy",
+        "/legal/terms"
+      ]
+    },
+    {
+      "id": "asset_f38c843a",
+      "category": "videos",
+      "originalUrl": "https://video-lhr11-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQO9zR5GMiwUMVLdnezHu7ShoNp8WfigIvw52f2DAVwse2wWkw-6T4lLTxif6XsRUEPJzaCfg7lDbteWjmsS0-ZrGF11AWyo2N_vvwrRjOgx3w.mp4?_nc_cat=1&_nc_sid=5e9851&_nc_ht=video-lhr11-1.xx.fbcdn.net&_nc_ohc=N4ZW0pRuzeQQ7kNvwHoTRmF&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5GQUNFQk9PSy4uQzMuMTI4MC5kYXNoX2gyNjQtYmFzaWMtZ2VuMl83MjBwIiwieHB2X2Fzc2V0X2lkIjoxMTEzNTUyMjM5NjYzNTI0LCJhc3NldF9hZ2VfZGF5cyI6MTY0MywidmlfdXNlY2FzZV9pZCI6MTAxMjgsImR1cmF0aW9uX3MiOjEwMywidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=7120dbc433b55ead&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9GRTQwQjlFREE5NDc2NThBNjRGMTc3OEI0QzVGQkU5QV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhg0ZmJfcGVybWFuZW50LzExODM0NDM1MjkyMDU3NjNfOTgxNjk3NTc2NDU1NDIzMTAwLm1wNBUCAsgBEgAoABgAGwOIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRJjb3B5X3NhbXBsZV9ncm91cHMBMRUAACbI5vjaorH6AxUCKAJDMywXQFnNT987ZFoYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUCZaCeAQA&_nc_gid=TTS1eRHEpjI6rTrxUITgLA&_nc_ss=7920f&_nc_zt=28&oh=00_AQQjY6MozFYQN-OIYetPr__xJJWCp1Eau6MrxylotJ6rWQ&oe=6AFE9F5A&bitrate=848710&tag=dash_h264-basic-gen2_720p",
+      "filename": "AQO9zR5GMiwUMVLdnezHu7ShoNp8WfigIvw52f2DAVwse2wWkw-6T4lLTxif6XsRUEPJ.mp4",
+      "localRelativePath": "assets/videos/AQO9zR5GMiwUMVLdnezHu7ShoNp8WfigIvw52f2DAVwse2wWkw-6T4lLTxif6XsRUEPJ.mp4",
+      "publicServeUrl": "/project-files/proj_1794686315776_8b8198/assets/videos/AQO9zR5GMiwUMVLdnezHu7ShoNp8WfigIvw52f2DAVwse2wWkw-6T4lLTxif6XsRUEPJ.mp4",
+      "mimeType": "video/mp4",
+      "sizeBytes": 10969205,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/legal/privacy"
+      ]
+    },
+    {
+      "id": "asset_2012f41d",
+      "category": "videos",
+      "originalUrl": "https://video-lhr11-1.xx.fbcdn.net/o1/v/t2/f2/m266/AQNyo8yq5iBYYBwYNPluN7o6dHWTGVIqb2HQ6trJ3JrytMMO1iod62O6-ElM8EqUvoa0lA0Dzt3XrgSzOz86Z26ikeqU471tyt0.mp4?strext=1&_nc_cat=1&_nc_sid=8bf8fe&_nc_ht=video-lhr11-1.xx.fbcdn.net&_nc_ohc=bj-2xy3IgZUQ7kNvwFV2KqZ&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5GQUNFQk9PSy4uQzMuMTkyMC5jb21wcmVzc2VkX3NvdXJjZSIsInhwdl9hc3NldF9pZCI6Mjc2OTI5MDMxOTA2NzE5LCJhc3NldF9hZ2VfZGF5cyI6MTY1NSwidmlfdXNlY2FzZV9pZCI6MTAxMjgsImR1cmF0aW9uX3MiOjk0LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=TTS1eRHEpjI6rTrxUITgLA&_nc_ss=7920f&_nc_zt=28&oh=00_AQTxeJD9tWjnNbG8OmfE9QAOWo78-Eu4jcencUtyvsQSvw&oe=6AFAA43B&bitrate=1854299&tag=compressed_source",
+      "filename": "AQNyo8yq5iBYYBwYNPluN7o6dHWTGVIqb2HQ6trJ3JrytMMO1iod62O6-ElM8EqUvoa0.mp4",
+      "localRelativePath": "",
+      "publicServeUrl": "",
+      "mimeType": "video/mp4",
+      "sizeBytes": 21895565,
+      "status": "skipped_restricted",
+      "errorReason": "Asset exceeds 12MB safety download threshold",
+      "referencedOnPages": [
+        "/legal/privacy"
+      ]
+    },
+    {
+      "id": "asset_55c5eac0",
+      "category": "images",
+      "originalUrl": "https://privacycenter.instagram.com/images/assets_DO_NOT_HARDCODE/company_brand_privacy_center_policy/Privacy-2021-CompanyBrand-34-Mobile.png",
+      "filename": "Privacy-2021-CompanyBrand-34-Mobile.png",
+      "localRelativePath": "assets/images/Privacy-2021-CompanyBrand-34-Mobile.png",
+      "publicServeUrl": "/project-files/proj_1794686315776_8b8198/assets/images/Privacy-2021-CompanyBrand-34-Mobile.png",
+      "mimeType": "text/html",
+      "sizeBytes": 210372,
+      "width": 120,
+      "height": 120,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/legal/privacy"
+      ]
+    },
+    {
+      "id": "asset_17b6afe3",
+      "category": "images",
+      "originalUrl": "https://privacycenter.instagram.com/images/assets_DO_NOT_HARDCODE/company_brand_privacy_center_policy/Privacy-2021-CompanyBrand-41-Mobile.png",
+      "filename": "Privacy-2021-CompanyBrand-41-Mobile.png",
+      "localRelativePath": "assets/images/Privacy-2021-CompanyBrand-41-Mobile.png",
+      "publicServeUrl": "/project-files/proj_1794686315776_8b8198/assets/images/Privacy-2021-CompanyBrand-41-Mobile.png",
+      "mimeType": "text/html",
+      "sizeBytes": 210373,
+      "width": 120,
+      "height": 120,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/legal/privacy"
+      ]
+    },
+    {
+      "id": "asset_df0c4935",
+      "category": "images",
+      "originalUrl": "https://privacycenter.instagram.com/images/assets_DO_NOT_HARDCODE/company_brand_privacy_center_policy/Privacy-2021-CompanyBrand-44-Mobile.png",
+      "filename": "Privacy-2021-CompanyBrand-44-Mobile.png",
+      "localRelativePath": "assets/images/Privacy-2021-CompanyBrand-44-Mobile.png",
+      "publicServeUrl": "/project-files/proj_1794686315776_8b8198/assets/images/Privacy-2021-CompanyBrand-44-Mobile.png",
+      "mimeType": "text/html",
+      "sizeBytes": 210376,
+      "width": 120,
+      "height": 120,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/legal/privacy"
+      ]
+    },
+    {
+      "id": "asset_79af8d46",
+      "category": "images",
+      "originalUrl": "https://privacycenter.instagram.com/images/assets_DO_NOT_HARDCODE/company_brand_privacy_center_policy/GenAiPrivacy-PrivacyCenter-GenAI-Hero-Cropped.png",
+      "filename": "GenAiPrivacy-PrivacyCenter-GenAI-Hero-Cropped.png",
+      "localRelativePath": "assets/images/GenAiPrivacy-PrivacyCenter-GenAI-Hero-Cropped.png",
+      "publicServeUrl": "/project-files/proj_1794686315776_8b8198/assets/images/GenAiPrivacy-PrivacyCenter-GenAI-Hero-Cropped.png",
+      "mimeType": "text/html",
+      "sizeBytes": 210378,
+      "width": 120,
+      "height": 120,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/legal/privacy"
+      ]
+    },
+    {
+      "id": "asset_38e0664c",
+      "category": "images",
+      "originalUrl": "https://privacycenter.instagram.com/images/assets_DO_NOT_HARDCODE/company_brand_privacy_center_policy/Privacy-2021-CompanyBrand-42-Mobile.png",
+      "filename": "Privacy-2021-CompanyBrand-42-Mobile.png",
+      "localRelativePath": "assets/images/Privacy-2021-CompanyBrand-42-Mobile.png",
+      "publicServeUrl": "/project-files/proj_1794686315776_8b8198/assets/images/Privacy-2021-CompanyBrand-42-Mobile.png",
+      "mimeType": "text/html",
+      "sizeBytes": 210368,
+      "width": 120,
+      "height": 120,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/legal/privacy"
+      ]
+    },
+    {
+      "id": "asset_642549d1",
+      "category": "images",
+      "originalUrl": "https://privacycenter.instagram.com/images/assets_DO_NOT_HARDCODE/company_brand_privacy_center_policy/Privacy-2021-CompanyBrand-71A-Mobile.png",
+      "filename": "Privacy-2021-CompanyBrand-71A-Mobile.png",
+      "localRelativePath": "assets/images/Privacy-2021-CompanyBrand-71A-Mobile.png",
+      "publicServeUrl": "/project-files/proj_1794686315776_8b8198/assets/images/Privacy-2021-CompanyBrand-71A-Mobile.png",
+      "mimeType": "text/html",
+      "sizeBytes": 210378,
+      "width": 640,
+      "height": 280,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/legal/privacy"
+      ]
+    },
+    {
+      "id": "asset_5e29993a",
+      "category": "images",
+      "originalUrl": "https://privacycenter.instagram.com/images/assets_DO_NOT_HARDCODE/company_brand_privacy_center_policy/Privacy-2021-CompanyBrand-52-Mobile.png",
+      "filename": "Privacy-2021-CompanyBrand-52-Mobile.png",
+      "localRelativePath": "assets/images/Privacy-2021-CompanyBrand-52-Mobile.png",
+      "publicServeUrl": "/project-files/proj_1794686315776_8b8198/assets/images/Privacy-2021-CompanyBrand-52-Mobile.png",
+      "mimeType": "text/html",
+      "sizeBytes": 210379,
+      "width": 120,
+      "height": 120,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/legal/privacy"
+      ]
+    },
+    {
+      "id": "asset_b1b04eac",
+      "category": "images",
+      "originalUrl": "https://privacycenter.instagram.com/images/assets_DO_NOT_HARDCODE/company_brand_privacy_center_policy/Privacy-2022-CompanyBrand-56A-Mobile.png",
+      "filename": "Privacy-2022-CompanyBrand-56A-Mobile.png",
+      "localRelativePath": "assets/images/Privacy-2022-CompanyBrand-56A-Mobile.png",
+      "publicServeUrl": "/project-files/proj_1794686315776_8b8198/assets/images/Privacy-2022-CompanyBrand-56A-Mobile.png",
+      "mimeType": "text/html",
+      "sizeBytes": 210381,
+      "width": 640,
+      "height": 280,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/legal/privacy"
+      ]
+    },
+    {
+      "id": "asset_bd3e94a9",
+      "category": "logos",
+      "originalUrl": "https://privacycenter.instagram.com/images/assets_DO_NOT_HARDCODE/company_brand_privacy_center_policy/PrivacyPolicy-LogoTree-Hero-16x7-WWW.png",
+      "filename": "PrivacyPolicy-LogoTree-Hero-16x7-WWW.png",
+      "localRelativePath": "assets/logos/PrivacyPolicy-LogoTree-Hero-16x7-WWW.png",
+      "publicServeUrl": "/project-files/proj_1794686315776_8b8198/assets/logos/PrivacyPolicy-LogoTree-Hero-16x7-WWW.png",
+      "mimeType": "text/html",
+      "sizeBytes": 210379,
+      "width": 640,
+      "height": 280,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/legal/privacy"
+      ]
+    },
+    {
+      "id": "asset_9a0e263c",
+      "category": "images",
+      "originalUrl": "https://privacycenter.instagram.com/images/assets_DO_NOT_HARDCODE/company_brand_privacy_center_policy/Privacy-2021-CompanyBrand-57-Mobile.png",
+      "filename": "Privacy-2021-CompanyBrand-57-Mobile.png",
+      "localRelativePath": "assets/images/Privacy-2021-CompanyBrand-57-Mobile.png",
+      "publicServeUrl": "/project-files/proj_1794686315776_8b8198/assets/images/Privacy-2021-CompanyBrand-57-Mobile.png",
+      "mimeType": "text/html",
+      "sizeBytes": 210373,
+      "width": 120,
+      "height": 120,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/legal/privacy"
+      ]
+    },
+    {
+      "id": "asset_86d7b47a",
+      "category": "logos",
+      "originalUrl": "inline-svg://logo-882c3420db",
+      "filename": "brand_logo_139.svg",
+      "localRelativePath": "assets/logos/brand_logo_139.svg",
+      "publicServeUrl": "/project-files/proj_1794686315776_8b8198/assets/logos/brand_logo_139.svg",
+      "mimeType": "image/svg+xml",
+      "sizeBytes": 4507,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/legal/privacy"
+      ]
+    },
+    {
+      "id": "asset_41493b40",
+      "category": "icons",
+      "originalUrl": "inline-svg://icon-282c88eb51",
+      "filename": "icon_140.svg",
+      "localRelativePath": "assets/icons/icon_140.svg",
+      "publicServeUrl": "/project-files/proj_1794686315776_8b8198/assets/icons/icon_140.svg",
+      "mimeType": "image/svg+xml",
+      "sizeBytes": 848,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/legal/privacy"
+      ]
+    },
+    {
+      "id": "asset_a51a7c1b",
+      "category": "icons",
+      "originalUrl": "inline-svg://icon-bcd7e4e2ac",
+      "filename": "icon_141.svg",
+      "localRelativePath": "assets/icons/icon_141.svg",
+      "publicServeUrl": "/project-files/proj_1794686315776_8b8198/assets/icons/icon_141.svg",
+      "mimeType": "image/svg+xml",
+      "sizeBytes": 349,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/legal/privacy"
+      ]
+    },
+    {
+      "id": "asset_e9bbf707",
+      "category": "icons",
+      "originalUrl": "inline-svg://icon-a5ee245095",
+      "filename": "icon_142.svg",
+      "localRelativePath": "assets/icons/icon_142.svg",
+      "publicServeUrl": "/project-files/proj_1794686315776_8b8198/assets/icons/icon_142.svg",
+      "mimeType": "image/svg+xml",
+      "sizeBytes": 875,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/legal/privacy"
+      ]
+    },
+    {
+      "id": "asset_7b3e270f",
+      "category": "icons",
+      "originalUrl": "inline-svg://icon-c4d7467579",
+      "filename": "icon_143.svg",
+      "localRelativePath": "assets/icons/icon_143.svg",
+      "publicServeUrl": "/project-files/proj_1794686315776_8b8198/assets/icons/icon_143.svg",
+      "mimeType": "image/svg+xml",
+      "sizeBytes": 1080,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/legal/privacy"
+      ]
+    },
+    {
+      "id": "asset_516f4f00",
+      "category": "icons",
+      "originalUrl": "inline-svg://icon-14efa61ffa",
+      "filename": "icon_144.svg",
+      "localRelativePath": "assets/icons/icon_144.svg",
+      "publicServeUrl": "/project-files/proj_1794686315776_8b8198/assets/icons/icon_144.svg",
+      "mimeType": "image/svg+xml",
+      "sizeBytes": 921,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/legal/privacy"
+      ]
+    },
+    {
+      "id": "asset_521806ff",
+      "category": "icons",
+      "originalUrl": "inline-svg://icon-9aa99aad2c",
+      "filename": "icon_145.svg",
+      "localRelativePath": "assets/icons/icon_145.svg",
+      "publicServeUrl": "/project-files/proj_1794686315776_8b8198/assets/icons/icon_145.svg",
+      "mimeType": "image/svg+xml",
+      "sizeBytes": 355,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/legal/privacy"
+      ]
+    },
+    {
+      "id": "asset_73aab7cf",
+      "category": "icons",
+      "originalUrl": "inline-svg://icon-f592cda98c",
+      "filename": "icon_146.svg",
+      "localRelativePath": "assets/icons/icon_146.svg",
+      "publicServeUrl": "/project-files/proj_1794686315776_8b8198/assets/icons/icon_146.svg",
+      "mimeType": "image/svg+xml",
+      "sizeBytes": 670,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/legal/privacy"
+      ]
+    },
+    {
+      "id": "asset_5a469788",
+      "category": "icons",
+      "originalUrl": "inline-svg://icon-89e877bb9d",
+      "filename": "icon_147.svg",
+      "localRelativePath": "assets/icons/icon_147.svg",
+      "publicServeUrl": "/project-files/proj_1794686315776_8b8198/assets/icons/icon_147.svg",
+      "mimeType": "image/svg+xml",
+      "sizeBytes": 354,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/legal/privacy"
+      ]
+    },
+    {
+      "id": "asset_237cd2bd",
+      "category": "icons",
+      "originalUrl": "inline-svg://icon-512947e8dc",
+      "filename": "icon_148.svg",
+      "localRelativePath": "assets/icons/icon_148.svg",
+      "publicServeUrl": "/project-files/proj_1794686315776_8b8198/assets/icons/icon_148.svg",
+      "mimeType": "image/svg+xml",
+      "sizeBytes": 1412,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/legal/privacy"
+      ]
+    },
+    {
+      "id": "asset_f81e387a",
+      "category": "icons",
+      "originalUrl": "inline-svg://icon-e285409234",
+      "filename": "icon_149.svg",
+      "localRelativePath": "assets/icons/icon_149.svg",
+      "publicServeUrl": "/project-files/proj_1794686315776_8b8198/assets/icons/icon_149.svg",
+      "mimeType": "image/svg+xml",
+      "sizeBytes": 4495,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/legal/privacy"
+      ]
+    },
+    {
+      "id": "asset_c322514c",
+      "category": "icons",
+      "originalUrl": "inline-svg://icon-eb2681eb24",
+      "filename": "icon_150.svg",
+      "localRelativePath": "assets/icons/icon_150.svg",
+      "publicServeUrl": "/project-files/proj_1794686315776_8b8198/assets/icons/icon_150.svg",
+      "mimeType": "image/svg+xml",
+      "sizeBytes": 332,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/legal/privacy"
+      ]
+    },
+    {
+      "id": "asset_8bbffcda",
+      "category": "icons",
+      "originalUrl": "inline-svg://icon-e2afbbd15c",
+      "filename": "icon_151.svg",
+      "localRelativePath": "assets/icons/icon_151.svg",
+      "publicServeUrl": "/project-files/proj_1794686315776_8b8198/assets/icons/icon_151.svg",
+      "mimeType": "image/svg+xml",
+      "sizeBytes": 354,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/legal/privacy"
+      ]
+    },
+    {
+      "id": "asset_18c851ea",
+      "category": "icons",
+      "originalUrl": "inline-svg://icon-4406a63fa9",
+      "filename": "icon_152.svg",
+      "localRelativePath": "assets/icons/icon_152.svg",
+      "publicServeUrl": "/project-files/proj_1794686315776_8b8198/assets/icons/icon_152.svg",
+      "mimeType": "image/svg+xml",
+      "sizeBytes": 354,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/legal/privacy"
+      ]
+    },
+    {
+      "id": "asset_08640c71",
+      "category": "icons",
+      "originalUrl": "inline-svg://icon-ecb01e4297",
+      "filename": "icon_153.svg",
+      "localRelativePath": "assets/icons/icon_153.svg",
+      "publicServeUrl": "/project-files/proj_1794686315776_8b8198/assets/icons/icon_153.svg",
+      "mimeType": "image/svg+xml",
+      "sizeBytes": 337,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/legal/privacy"
+      ]
+    },
+    {
+      "id": "asset_88e2657b",
+      "category": "icons",
+      "originalUrl": "inline-svg://icon-37b21596db",
+      "filename": "icon_154.svg",
+      "localRelativePath": "assets/icons/icon_154.svg",
+      "publicServeUrl": "/project-files/proj_1794686315776_8b8198/assets/icons/icon_154.svg",
+      "mimeType": "image/svg+xml",
+      "sizeBytes": 449,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/legal/privacy"
+      ]
+    },
+    {
+      "id": "asset_54c3eaf6",
+      "category": "css",
+      "originalUrl": "https://static.cdninstagram.com/rsrc.php/v5/y4/l/0,cross/5-rdz4k7C3Otv0DRJ9L098MzWB6D43piqfgQe914iiBfONMKn3YhINqU49pVNahkCkGzNiZ9AWV5Gs97xFZK--hB.css",
+      "filename": "5-rdz4k7C3Otv0DRJ9L098MzWB6D43piqfgQe914iiBfONMKn3YhINqU49pVNahkCkGz.css",
+      "localRelativePath": "assets/css/5-rdz4k7C3Otv0DRJ9L098MzWB6D43piqfgQe914iiBfONMKn3YhINqU49pVNahkCkGz.css",
+      "publicServeUrl": "/project-files/proj_1794686315776_8b8198/assets/css/5-rdz4k7C3Otv0DRJ9L098MzWB6D43piqfgQe914iiBfONMKn3YhINqU49pVNahkCkGz.css",
+      "mimeType": "text/css",
+      "sizeBytes": 1148442,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/"
+      ]
+    },
+    {
+      "id": "asset_c8d32e99",
+      "category": "css",
+      "originalUrl": "https://static.cdninstagram.com/rsrc.php/v5/yj/l/0,cross/5-rdz4k7C3Otv0DRJ9L098MzWB6D43piqfgQe914iiBfONMKn3YhINqU49pVNahkCks97xFZK--hB.css",
+      "filename": "5-rdz4k7C3Otv0DRJ9L098MzWB6D43piqfgQe914iiBfONMKn3YhINqU49pVNahkCks9.css",
+      "localRelativePath": "assets/css/5-rdz4k7C3Otv0DRJ9L098MzWB6D43piqfgQe914iiBfONMKn3YhINqU49pVNahkCks9.css",
+      "publicServeUrl": "/project-files/proj_1794686315776_8b8198/assets/css/5-rdz4k7C3Otv0DRJ9L098MzWB6D43piqfgQe914iiBfONMKn3YhINqU49pVNahkCks9.css",
+      "mimeType": "text/css",
+      "sizeBytes": 1147642,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/accounts/emailsignup"
+      ]
+    },
+    {
+      "id": "asset_d4ca8df6",
+      "category": "css",
+      "originalUrl": "https://static.xx.fbcdn.net/rsrc.php/v5/yD/l/0,cross/1n12xc4s_7T5xWBlIoh3YjfgQe914iiBfONMKn3YhINqU49pVNahkCk6SrEJcmHuPbCcaOkD6cxXH.css",
+      "filename": "1n12xc4s_7T5xWBlIoh3YjfgQe914iiBfONMKn3YhINqU49pVNahkCk6SrEJcmHuPbCc.css",
+      "localRelativePath": "assets/css/1n12xc4s_7T5xWBlIoh3YjfgQe914iiBfONMKn3YhINqU49pVNahkCk6SrEJcmHuPbCc.css",
+      "publicServeUrl": "/project-files/proj_1794686315776_8b8198/assets/css/1n12xc4s_7T5xWBlIoh3YjfgQe914iiBfONMKn3YhINqU49pVNahkCk6SrEJcmHuPbCc.css",
+      "mimeType": "text/css",
+      "sizeBytes": 1658673,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/legal/privacy"
+      ]
+    },
+    {
+      "id": "asset_4c20dbd7",
+      "category": "css",
+      "originalUrl": "https://static.xx.fbcdn.net/rsrc.php/v5/yW/l/0,cross/nNrLi_bF8Ta.css",
+      "filename": "nNrLi_bF8Ta.css",
+      "localRelativePath": "assets/css/nNrLi_bF8Ta.css",
+      "publicServeUrl": "/project-files/proj_1794686315776_8b8198/assets/css/nNrLi_bF8Ta.css",
+      "mimeType": "text/css",
+      "sizeBytes": 11786,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/legal/terms"
+      ]
+    },
+    {
+      "id": "asset_a8d6e35e",
+      "category": "css",
+      "originalUrl": "https://static.xx.fbcdn.net/rsrc.php/v5/yl/l/0,cross/QvuWABIjhhR.css",
+      "filename": "QvuWABIjhhR.css",
+      "localRelativePath": "assets/css/QvuWABIjhhR.css",
+      "publicServeUrl": "/project-files/proj_1794686315776_8b8198/assets/css/QvuWABIjhhR.css",
+      "mimeType": "text/css",
+      "sizeBytes": 836,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/legal/terms"
+      ]
+    },
+    {
+      "id": "asset_6821c7d5",
+      "category": "css",
+      "originalUrl": "https://static.xx.fbcdn.net/rsrc.php/v5/ys/l/0,cross/Juz6bC-x0Xc.css",
+      "filename": "Juz6bC-x0Xc.css",
+      "localRelativePath": "assets/css/Juz6bC-x0Xc.css",
+      "publicServeUrl": "/project-files/proj_1794686315776_8b8198/assets/css/Juz6bC-x0Xc.css",
+      "mimeType": "text/css",
+      "sizeBytes": 83569,
+      "status": "downloaded",
+      "referencedOnPages": [
+        "/legal/terms"
+      ]
+    }
+  ]
+}
